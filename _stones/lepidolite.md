@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Lepidolite"
 ## Description
 Description.
 
-![Lepidolite](/images/stones//images/Lepidolite_Kerstin_20200524.jpg "Lepidolite")
+![Lepidolite](/images/stones/Lepidolite_Kerstin_20200524.jpg "Lepidolite")
 
 ## Propriétés sur le corps physique
 
@@ -21,6 +21,6 @@ Description.
 [Source](https://)
 
 ## Acquisition
-
+Kerstin
 
 24.05.2020

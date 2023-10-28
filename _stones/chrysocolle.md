@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Chrysocolle"
 ## Description
 Description.
 
-![Chrysocolle](/images/stones//images/Chrysocolle_Africa_2010.jpg "Chrysocolle")
+![Chrysocolle](/images/stones/Chrysocolle_Africa_2010.jpg "Chrysocolle")
 
 ## Propriétés sur le corps physique
 
@@ -21,6 +21,6 @@ Description.
 [Source](https://)
 
 ## Acquisition
-
+Africa
 
 01.01.1970

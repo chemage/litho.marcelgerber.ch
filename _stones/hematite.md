@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Hematite"
 ## Description
 Description.
 
-![Hematite](/images/stones//images/Hematite_Kerstin_20200524.jpg "Hematite")
+![Hematite](/images/stones/Hematite_Kerstin_20200524.jpg "Hematite")
 
 ## Propriétés sur le corps physique
 
@@ -21,6 +21,6 @@ Description.
 [Source](https://)
 
 ## Acquisition
-
+Kerstin
 
 24.05.2020

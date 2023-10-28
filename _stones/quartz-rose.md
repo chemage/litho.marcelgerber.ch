@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Quartz Rose"
 ## Description
 Description.
 
-![Quartz Rose](/images/stones//images/QuartzRose_Kerstin_20200524_Coeur.jpg "Quartz Rose")
+![Quartz Rose](/images/stones/QuartzRose_Kerstin_20200524_Coeur.jpg "Quartz Rose")
 
 ## Propriétés sur le corps physique
 
@@ -21,6 +21,6 @@ Description.
 [Source](https://)
 
 ## Acquisition
-
+Kerstin
 
 24.05.2020

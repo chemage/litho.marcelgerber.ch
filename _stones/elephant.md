@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Elephant"
 ## Description
 Description.
 
-![Elephant](/images/stones//images/Elephant_Italia_2018.jpg "Elephant")
+![Elephant](/images/stones/Elephant_Italia_2018.jpg "Elephant")
 
 ## Propriétés sur le corps physique
 
@@ -21,6 +21,6 @@ Description.
 [Source](https://)
 
 ## Acquisition
-
+Italia
 
 01.01.1970

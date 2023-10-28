@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Oeil De Taureau"
 ## Description
 Description.
 
-![Oeil De Taureau](/images/stones//images/OeilDeTaureau_AgeDePierre_20201103.jpg "Oeil De Taureau")
+![Oeil De Taureau](/images/stones/OeilDeTaureau_AgeDePierre_20201103.jpg "Oeil De Taureau")
 
 ## Propriétés sur le corps physique
 
@@ -21,6 +21,6 @@ Description.
 [Source](https://)
 
 ## Acquisition
-
+Age De Pierre
 
 03.11.2020

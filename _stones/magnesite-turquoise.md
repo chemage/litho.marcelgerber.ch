@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Magnesite Turquoise"
 ## Description
 Description.
 
-![Magnesite Turquoise](/images/stones//images/MagnesiteTurquoise_TresorsDHimalaya_20231028.jpg "Magnesite Turquoise")
+![Magnesite Turquoise](/images/stones/MagnesiteTurquoise_TresorsDHimalaya_20231028.jpg "Magnesite Turquoise")
 
 ## Propriétés sur le corps physique
 
@@ -21,6 +21,6 @@ Description.
 [Source](https://)
 
 ## Acquisition
-
+Tresors D Himalaya
 
 28.10.2023

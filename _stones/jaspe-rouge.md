@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Jaspe Rouge"
 ## Description
 Description.
 
-![Jaspe Rouge](/images/stones//images/JaspeRouge_Kerstin_20200524.jpg "Jaspe Rouge")
+![Jaspe Rouge](/images/stones/JaspeRouge_Kerstin_20200524.jpg "Jaspe Rouge")
 
 ## Propriétés sur le corps physique
 
@@ -21,6 +21,6 @@ Description.
 [Source](https://)
 
 ## Acquisition
-
+Kerstin
 
 24.05.2020

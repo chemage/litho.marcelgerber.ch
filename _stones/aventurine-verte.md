@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Aventurine Verte"
 ## Description
 Description.
 
-![Aventurine Verte](/images/stones//images/AventurineVerte_Zund_20230211.jpg "Aventurine Verte")
+![Aventurine Verte](/images/stones/AventurineVerte_Zund_20230211.jpg "Aventurine Verte")
 
 ## Propriétés sur le corps physique
 
@@ -21,6 +21,6 @@ Description.
 [Source](https://)
 
 ## Acquisition
-
+Zund
 
 11.02.2023

@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Shungite Brute"
 ## Description
 Description.
 
-![Shungite Brute](/images/stones//images/ShungiteBrute_AgeDePierre_20201103.jpg "Shungite Brute")
+![Shungite Brute](/images/stones/ShungiteBrute_AgeDePierre_20201103.jpg "Shungite Brute")
 
 ## Propriétés sur le corps physique
 
@@ -21,6 +21,6 @@ Description.
 [Source](https://)
 
 ## Acquisition
-
+Age De Pierre
 
 03.11.2020

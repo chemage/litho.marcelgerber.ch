@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Rose Des Sables"
 ## Description
 Description.
 
-![Rose Des Sables](/images/stones//images/RoseDesSables_Kerstin_20200524.jpg "Rose Des Sables")
+![Rose Des Sables](/images/stones/RoseDesSables_Kerstin_20200524.jpg "Rose Des Sables")
 
 ## Propriétés sur le corps physique
 
@@ -21,6 +21,6 @@ Description.
 [Source](https://)
 
 ## Acquisition
-
+Kerstin
 
 24.05.2020

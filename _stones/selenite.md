@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Selenite"
 ## Description
 Description.
 
-![Selenite](/images/stones//images/Selenite_Kerstin_20200528.jpg "Selenite")
+![Selenite](/images/stones/Selenite_Kerstin_20200528.jpg "Selenite")
 
 ## Propriétés sur le corps physique
 
@@ -21,6 +21,6 @@ Description.
 [Source](https://)
 
 ## Acquisition
-
+Kerstin
 
 28.05.2020

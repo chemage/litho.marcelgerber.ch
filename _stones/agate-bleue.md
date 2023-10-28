@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Agate Bleue"
 ## Description
 Description.
 
-![Agate Bleue](/images/stones//images/AgateBleue_GwendoD_2020.jpg "Agate Bleue")
+![Agate Bleue](/images/stones/AgateBleue_GwendoD_2020.jpg "Agate Bleue")
 
 ## Propriétés sur le corps physique
 
@@ -21,6 +21,6 @@ Description.
 [Source](https://)
 
 ## Acquisition
-
+Gwendo D
 
 01.01.1970

@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Malachite"
 ## Description
 Description.
 
-![Malachite](/images/stones//images/Malachite_Kerstin_20200524.jpg "Malachite")
+![Malachite](/images/stones/Malachite_Kerstin_20200524.jpg "Malachite")
 
 ## Propriétés sur le corps physique
 
@@ -21,6 +21,6 @@ Description.
 [Source](https://)
 
 ## Acquisition
-
+Kerstin
 
 24.05.2020

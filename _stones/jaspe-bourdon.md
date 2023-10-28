@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Jaspe Bourdon"
 ## Description
 Description.
 
-![Jaspe Bourdon](/images/stones//images/JaspeBourdon_BijouxDeMaera_20201002.jpg "Jaspe Bourdon")
+![Jaspe Bourdon](/images/stones/JaspeBourdon_BijouxDeMaera_20201002.jpg "Jaspe Bourdon")
 
 ## Propriétés sur le corps physique
 
@@ -21,6 +21,6 @@ Description.
 [Source](https://)
 
 ## Acquisition
-
+Bijoux De Maera
 
 02.10.2020
