@@ -3,5 +3,5 @@
 main:
   - title: "Pierres"
     url: "/"
-  - title: "About"
+  - title: "À Propos"
     url: "/about/"
