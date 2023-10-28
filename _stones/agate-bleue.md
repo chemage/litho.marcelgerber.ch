@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Agate Bleue"
 ## Description
 Description.
 
-![Agate Bleue](/images/stones//images/AgateBleue_GwendoD_2020.jpg.jpg "Agate Bleue")
+![Agate Bleue](/images/stones//images/AgateBleue_GwendoD_2020.jpg "Agate Bleue")
 
 ## Propriétés sur le corps physique
 

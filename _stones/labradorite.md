@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Labradorite"
 ## Description
 Description.
 
-![Labradorite](/images/stones//images/Labradorite_Kerstin_20200524.jpg.jpg "Labradorite")
+![Labradorite](/images/stones//images/Labradorite_Kerstin_20200524.jpg "Labradorite")
 
 ## Propriétés sur le corps physique
 

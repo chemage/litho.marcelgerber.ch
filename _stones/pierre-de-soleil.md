@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Pierre De Soleil"
 ## Description
 Description.
 
-![Pierre De Soleil](/images/stones//images/PierreDeSoleil_Heliotrope_20211023.jpg.jpg "Pierre De Soleil")
+![Pierre De Soleil](/images/stones//images/PierreDeSoleil_Heliotrope_20211023.jpg "Pierre De Soleil")
 
 ## Propriétés sur le corps physique
 

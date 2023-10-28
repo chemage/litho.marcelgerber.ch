@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Cristal Roche"
 ## Description
 Description.
 
-![Cristal Roche](/images/stones//images/CristalRoche_Kerstin_20200524_cristaux.jpg.jpg "Cristal Roche")
+![Cristal Roche](/images/stones//images/CristalRoche_Kerstin_20200524_cristaux.jpg "Cristal Roche")
 
 ## Propriétés sur le corps physique
 

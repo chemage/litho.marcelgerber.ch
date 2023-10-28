@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre <name>"
 ## Description
 Description.
 
-![<name>](/images/stones/<filename>.jpg "<name>")
+![<name>](/images/stones/<filename> "<name>")
 
 ## Propriétés sur le corps physique
 

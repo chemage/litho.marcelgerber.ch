@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Agate Botswana"
 ## Description
 Description.
 
-![Agate Botswana](/images/stones//images/AgateBotswana_AgeDePierre_20201103_pourGwendoD.jpg.jpg "Agate Botswana")
+![Agate Botswana](/images/stones//images/AgateBotswana_AgeDePierre_20201103_pourGwendoD.jpg "Agate Botswana")
 
 ## Propriétés sur le corps physique
 

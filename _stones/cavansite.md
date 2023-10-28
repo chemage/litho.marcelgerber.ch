@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Cavansite"
 ## Description
 Description.
 
-![Cavansite](/images/stones//images/Cavansite_Eliotrope_20211023.jpg.jpg "Cavansite")
+![Cavansite](/images/stones//images/Cavansite_Eliotrope_20211023.jpg "Cavansite")
 
 ## Propriétés sur le corps physique
 

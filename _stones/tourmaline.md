@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Tourmaline"
 ## Description
 Description.
 
-![Tourmaline](/images/stones//images/Tourmaline_Kerstin-Africa_20200524.jpg.jpg "Tourmaline")
+![Tourmaline](/images/stones//images/Tourmaline_Kerstin-Africa_20200524.jpg "Tourmaline")
 
 ## Propriétés sur le corps physique
 

@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Rubis Zoisite"
 ## Description
 Description.
 
-![Rubis Zoisite](/images/stones//images/RubisZoisite_Zund_20230211.jpg.jpg "Rubis Zoisite")
+![Rubis Zoisite](/images/stones//images/RubisZoisite_Zund_20230211.jpg "Rubis Zoisite")
 
 ## Propriétés sur le corps physique
 

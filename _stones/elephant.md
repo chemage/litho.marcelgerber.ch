@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Elephant"
 ## Description
 Description.
 
-![Elephant](/images/stones//images/Elephant_Italia_2018.jpg.jpg "Elephant")
+![Elephant](/images/stones//images/Elephant_Italia_2018.jpg "Elephant")
 
 ## Propriétés sur le corps physique
 

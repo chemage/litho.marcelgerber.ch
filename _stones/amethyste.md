@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Amethyste"
 ## Description
 Description.
 
-![Amethyste](/images/stones//images/Amethyste_Kerstin_20200523.jpg.jpg "Amethyste")
+![Amethyste](/images/stones//images/Amethyste_Kerstin_20200523.jpg "Amethyste")
 
 ## Propriétés sur le corps physique
 

@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Oeil De Fer"
 ## Description
 Description.
 
-![Oeil De Fer](/images/stones//images/OeilDeFer_AgeDePierre_20201103.jpg.jpg "Oeil De Fer")
+![Oeil De Fer](/images/stones//images/OeilDeFer_AgeDePierre_20201103.jpg "Oeil De Fer")
 
 ## Propriétés sur le corps physique
 

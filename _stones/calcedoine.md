@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Calcedoine"
 ## Description
 Description.
 
-![Calcedoine](/images/stones//images/Calcedoine_Kerstin_20200524.jpg.jpg "Calcedoine")
+![Calcedoine](/images/stones//images/Calcedoine_Kerstin_20200524.jpg "Calcedoine")
 
 ## Propriétés sur le corps physique
 

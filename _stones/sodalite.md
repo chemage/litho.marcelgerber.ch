@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Sodalite"
 ## Description
 Description.
 
-![Sodalite](/images/stones//images/Sodalite_Africa_2010.jpg.jpg "Sodalite")
+![Sodalite](/images/stones//images/Sodalite_Africa_2010.jpg "Sodalite")
 
 ## Propriétés sur le corps physique
 

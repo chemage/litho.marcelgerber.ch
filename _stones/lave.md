@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Lave"
 ## Description
 Description.
 
-![Lave](/images/stones//images/Lave_Kerstin_20200524.jpg.jpg "Lave")
+![Lave](/images/stones//images/Lave_Kerstin_20200524.jpg "Lave")
 
 ## Propriétés sur le corps physique
 

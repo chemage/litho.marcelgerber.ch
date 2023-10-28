@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Oeil Tigre- Serpentine"
 ## Description
 Description.
 
-![Oeil Tigre- Serpentine](/images/stones//images/OeilTigre-Serpentine_GwendoD_2020.jpg.jpg "Oeil Tigre- Serpentine")
+![Oeil Tigre- Serpentine](/images/stones//images/OeilTigre-Serpentine_GwendoD_2020.jpg "Oeil Tigre- Serpentine")
 
 ## Propriétés sur le corps physique
 

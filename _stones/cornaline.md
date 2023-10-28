@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Cornaline"
 ## Description
 Description.
 
-![Cornaline](/images/stones//images/Cornaline_Kerstin_20200524.jpg.jpg "Cornaline")
+![Cornaline](/images/stones//images/Cornaline_Kerstin_20200524.jpg "Cornaline")
 
 ## Propriétés sur le corps physique
 

@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Agate Beige"
 ## Description
 Description.
 
-![Agate Beige](/images/stones//images/AgateBeige_Africa_2010.jpg.jpg "Agate Beige")
+![Agate Beige](/images/stones//images/AgateBeige_Africa_2010.jpg "Agate Beige")
 
 ## Propriétés sur le corps physique
 
