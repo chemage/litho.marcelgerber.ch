@@ -1,12 +1,26 @@
 ---
-title: "Oeil de Fer"
+title: "Oeil De Fer"
 permalink: /stones/oeil-de-fer/
-excerpt: "Informations sur ma pierre Oeil de Fer"
+excerpt: "Informations sur ma pierre Oeil De Fer"
 ---
 
-<!-- # Oeil de Fer -->
+## Description
+Description.
 
-Cette page est destinée à la pierre Oeil de Fer.
+![Oeil De Fer](/images/stones//images/OeilDeFer_AgeDePierre_20201103.jpg.jpg "Oeil De Fer")
 
-![Oeil de Fer](/images/stones/OeilDeFer_AgeDePierre_20201103.jpg "Oeil de Fer")
+## Propriétés sur le corps physique
 
+
+[Source](https://)
+
+
+## Propriétés sur le psychisme
+
+
+[Source](https://)
+
+## Acquisition
+
+
+03.11.2020
