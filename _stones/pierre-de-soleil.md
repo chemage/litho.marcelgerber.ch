@@ -1,13 +1,13 @@
 ---
-title: "Pierre De Soleil"
+title: "Pierre de Soleil"
 permalink: /stones/pierre-de-soleil/
-excerpt: "Informations sur ma pierre Pierre De Soleil"
+excerpt: "Informations sur ma pierre Pierre de Soleil"
 ---
 
-## Description
-Description.
+## description
+description.
 
-![Pierre De Soleil](/images/stones/PierreDeSoleil_Heliotrope_20211023.jpg "Pierre De Soleil")
+![Pierre de Soleil](/images/stones/PierredeSoleil_Heliotrope_20211023.jpg "Pierre de Soleil")
 
 ## Propriétés sur le corps physique
 

@@ -1,13 +1,13 @@
 ---
-title: "Oeil De Taureau"
+title: "Oeil de Taureau"
 permalink: /stones/oeil-de-taureau/
-excerpt: "Informations sur ma pierre Oeil De Taureau"
+excerpt: "Informations sur ma pierre Oeil de Taureau"
 ---
 
 ## Description
 Description.
 
-![Oeil De Taureau](/images/stones/OeilDeTaureau_AgeDePierre_20201103.jpg "Oeil De Taureau")
+![Oeil de Taureau](/images/stones/OeilDeTaureau_AgeDePierre_20201103.jpg "Oeil de Taureau")
 
 ## Propriétés sur le corps physique
 

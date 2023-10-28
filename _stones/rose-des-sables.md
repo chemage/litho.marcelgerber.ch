@@ -1,13 +1,13 @@
 ---
-title: "Rose Des Sables"
+title: "Rose des Sables"
 permalink: /stones/rose-des-sables/
-excerpt: "Informations sur ma pierre Rose Des Sables"
+excerpt: "Informations sur ma pierre Rose des Sables"
 ---
 
-## Description
-Description.
+## description
+description.
 
-![Rose Des Sables](/images/stones/RoseDesSables_Kerstin_20200524.jpg "Rose Des Sables")
+![Rose des Sables](/images/stones/RosedesSables_Kerstin_20200524.jpg "Rose des Sables")
 
 ## Propriétés sur le corps physique
 
