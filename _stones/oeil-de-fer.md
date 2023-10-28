@@ -21,6 +21,7 @@ Description.
 [Source](https://)
 
 ## Acquisition
+
 Age De Pierre
 
 03.11.2020

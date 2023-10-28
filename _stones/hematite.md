@@ -7,7 +7,8 @@ excerpt: "Informations sur ma pierre Hematite"
 ## Description
 Description.
 
-![Hematite](/images/stones/Hematite_Kerstin_20200524.jpg "Hematite")
+1. ![Hematite](/images/stones/Hematite_Kerstin_20200524.jpg "Hematite")
+1. ![Hematite](/images/stones/Hematite_Zund_20230211.jpg "Hematite")
 
 ## Propriétés sur le corps physique
 
@@ -21,6 +22,5 @@ Description.
 [Source](https://)
 
 ## Acquisition
-Kerstin
-
-24.05.2020
+1. Kerstin - 24.05.2020
+1. Glasblaserei Zünd - 11.02.2023
