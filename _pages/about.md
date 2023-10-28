@@ -43,3 +43,5 @@ d'une pierre.
 
 Généralement je choisis des pierres qui "m'ont choisies", sauf si elles ne me correspondent
 absolument pas au niveau des propriétés.
+
+![recharge](/images/default_teaser_500x300.jpg "Recharge"){:width="300px"}
