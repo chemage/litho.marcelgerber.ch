@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Oeil de Taureau"
 ## description
 description.
 
-![Oeil de Taureau](/images/stones/OeilDeTaureau_AgedePierre_20201103.jpg "Oeil de Taureau")
+![Oeil de Taureau](/images/stones/OeilDeTaureau_AgeDePierre_20201103.jpg "Oeil de Taureau")
 
 ## Propriétés sur le corps physique
 
