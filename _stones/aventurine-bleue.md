@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Aventurine Bleue"
 ## description
 description.
 
-![Aventurine Bleue](/images/stones/AventurineBleue_BijouxdeMaera_20201002.jpg "Aventurine Bleue")
+![Aventurine Bleue](/images/stones/AventurineBleue_BijouxDeMaera_20201002.jpg "Aventurine Bleue")
 
 ## Propriétés sur le corps physique
 

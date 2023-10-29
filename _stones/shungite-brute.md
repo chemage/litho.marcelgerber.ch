@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Shungite Brute"
 ## description
 description.
 
-![Shungite Brute](/images/stones/ShungiteBrute_AgedePierre_20201103.jpg "Shungite Brute")
+![Shungite Brute](/images/stones/ShungiteBrute_AgeDePierre_20201103.jpg "Shungite Brute")
 
 ## Propriétés sur le corps physique
 

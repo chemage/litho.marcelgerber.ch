@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Hypersthene"
 ## description
 description.
 
-![Hypersthene](/images/stones/Hypersthene_AgedePierre_20201103.jpg "Hypersthene")
+![Hypersthene](/images/stones/Hypersthene_AgeDePierre_20201103.jpg "Hypersthene")
 
 ## Propriétés sur le corps physique
 

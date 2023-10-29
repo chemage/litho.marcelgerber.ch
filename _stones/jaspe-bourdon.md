@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Jaspe Bourdon"
 ## description
 description.
 
-![Jaspe Bourdon](/images/stones/JaspeBourdon_BijouxdeMaera_20201002.jpg "Jaspe Bourdon")
+![Jaspe Bourdon](/images/stones/JaspeBourdon_BijouxDeMaera_20201002.jpg "Jaspe Bourdon")
 
 ## Propriétés sur le corps physique
 
