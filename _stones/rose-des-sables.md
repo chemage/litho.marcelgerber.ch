@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Rose des Sables"
 ## description
 description.
 
-![Rose des Sables](/images/stones/RosedesSables_Kerstin_20200524.jpg "Rose des Sables")
+![Rose des Sables](/images/stones/RoseDesSables_Kerstin_20200524.jpg "Rose des Sables")
 
 ## Propriétés sur le corps physique
 

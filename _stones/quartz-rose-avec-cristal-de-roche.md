@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Quartz Rose Avec Cristal de Roche"
 ## description
 description.
 
-![Quartz Rose Avec Cristal de Roche](/images/stones/QuartzRoseAvecCristaldeRoche_notknown_notknown.jpg "Quartz Rose Avec Cristal de Roche")
+![Quartz Rose Avec Cristal de Roche](/images/stones/QuartzRoseAvecCristalDeRoche_notknown_notknown.jpg "Quartz Rose Avec Cristal de Roche")
 
 ## Propriétés sur le corps physique
 
