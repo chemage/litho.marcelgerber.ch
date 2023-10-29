@@ -22,5 +22,3 @@ Description.
 
 ## Acquisition
 Italia
-
-01.01.1970

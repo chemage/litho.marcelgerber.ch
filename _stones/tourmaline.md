@@ -21,6 +21,6 @@ Description.
 [Source](https://)
 
 ## Acquisition
-Kerstin- Africa
+Kerstin et Africa
 
-24.05.2020
+24.05.2020 et 2012/13

@@ -23,4 +23,4 @@ Description.
 
 ## Acquisition
 1. Kerstin - 24.05.2020
-1. Glasblaserei Zünd - 11.02.2023
+1. Zünd Event-Glasbläserei Heilstein-Atelier, Lamboing - 11.02.2023

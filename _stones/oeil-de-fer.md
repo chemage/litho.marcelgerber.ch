@@ -1,13 +1,13 @@
 ---
-title: "Oeil De Fer"
+title: "Oeil de Fer"
 permalink: /stones/oeil-de-fer/
-excerpt: "Informations sur ma pierre Oeil De Fer"
+excerpt: "Informations sur ma pierre Oeil de Fer"
 ---
 
-## Description
-Description.
+## description
+description.
 
-![Oeil De Fer](/images/stones/OeilDeFer_AgeDePierre_20201103.jpg "Oeil De Fer")
+![Oeil de Fer](/images/stones/OeildeFer_AgedePierre_20201103.jpg "Oeil de Fer")
 
 ## Propriétés sur le corps physique
 
@@ -21,7 +21,6 @@ Description.
 [Source](https://)
 
 ## Acquisition
-
-Age De Pierre
+Âge de Pierre, Vevey
 
 03.11.2020

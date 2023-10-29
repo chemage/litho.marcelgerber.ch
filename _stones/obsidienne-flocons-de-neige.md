@@ -1,13 +1,13 @@
 ---
-title: "Obsidienne Flocons De Neige"
+title: "Obsidienne Flocons de Neige"
 permalink: /stones/obsidienne-flocons-de-neige/
-excerpt: "Informations sur ma pierre Obsidienne Flocons De Neige"
+excerpt: "Informations sur ma pierre Obsidienne Flocons de Neige"
 ---
 
-## Description
-Description.
+## description
+description.
 
-![Obsidienne Flocons De Neige](/images/stones/ObsidienneFloconsDeNeige_Kerstin_20200721.jpg "Obsidienne Flocons De Neige")
+![Obsidienne Flocons de Neige](/images/stones/ObsidienneFloconsdeNeige_Kerstin_20200721.jpg "Obsidienne Flocons de Neige")
 
 ## Propriétés sur le corps physique
 

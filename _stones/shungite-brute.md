@@ -4,10 +4,10 @@ permalink: /stones/shungite-brute/
 excerpt: "Informations sur ma pierre Shungite Brute"
 ---
 
-## Description
-Description.
+## description
+description.
 
-![Shungite Brute](/images/stones/ShungiteBrute_AgeDePierre_20201103.jpg "Shungite Brute")
+![Shungite Brute](/images/stones/ShungiteBrute_AgedePierre_20201103.jpg "Shungite Brute")
 
 ## Propriétés sur le corps physique
 
@@ -21,6 +21,6 @@ Description.
 [Source](https://)
 
 ## Acquisition
-Age De Pierre
+Âge de Pierre, Vevey
 
 03.11.2020

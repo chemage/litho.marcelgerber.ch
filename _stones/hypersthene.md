@@ -4,10 +4,10 @@ permalink: /stones/hypersthene/
 excerpt: "Informations sur ma pierre Hypersthene"
 ---
 
-## Description
-Description.
+## description
+description.
 
-![Hypersthene](/images/stones/Hypersthene_AgeDePierre_20201103.jpg "Hypersthene")
+![Hypersthene](/images/stones/Hypersthene_AgedePierre_20201103.jpg "Hypersthene")
 
 ## Propriétés sur le corps physique
 
@@ -21,6 +21,6 @@ Description.
 [Source](https://)
 
 ## Acquisition
-Age De Pierre
+Âge de Pierre, Vevey
 
 03.11.2020

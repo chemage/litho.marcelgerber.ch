@@ -23,5 +23,5 @@ Description.
 
 ## Acquisition
 
-1. Âge De Pierre - 03.11.2020
+1. Âge De Pierre, Vevey - 03.11.2020
 1. Kerstin - 13.07.2020

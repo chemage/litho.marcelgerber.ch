@@ -29,6 +29,6 @@ Il ouvre l'esprit aux idées neuves, stimule l'écoute des autres et nous apport
 [Source](https://nirvana-sante.blogspot.com/2013/07/oeil-de-faucon-pouvoir-sur-le-corps-et.html)
 
 ## Acquisition
-Trésors d'Himalaya
+Trésors d'Himalaya, Yverdon-les-Bains
 
 28.10.2023

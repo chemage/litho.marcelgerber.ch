@@ -1,13 +1,13 @@
 ---
-title: "Quartz Rose Avec Cristal De Roche"
+title: "Quartz Rose Avec Cristal de Roche"
 permalink: /stones/quartz-rose-avec-cristal-de-roche/
-excerpt: "Informations sur ma pierre Quartz Rose Avec Cristal De Roche"
+excerpt: "Informations sur ma pierre Quartz Rose Avec Cristal de Roche"
 ---
 
-## Description
-Description.
+## description
+description.
 
-![Quartz Rose Avec Cristal De Roche](/images/stones/QuartzRoseAvecCristalDeRoche_notknown_notknown.jpg "Quartz Rose Avec Cristal De Roche")
+![Quartz Rose Avec Cristal de Roche](/images/stones/QuartzRoseAvecCristaldeRoche_notknown_notknown.jpg "Quartz Rose Avec Cristal de Roche")
 
 ## Propriétés sur le corps physique
 
@@ -21,6 +21,4 @@ Description.
 [Source](https://)
 
 ## Acquisition
-otknown
-
-01.01.1970
+unknown

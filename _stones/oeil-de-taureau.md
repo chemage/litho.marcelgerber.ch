@@ -4,10 +4,10 @@ permalink: /stones/oeil-de-taureau/
 excerpt: "Informations sur ma pierre Oeil de Taureau"
 ---
 
-## Description
-Description.
+## description
+description.
 
-![Oeil de Taureau](/images/stones/OeilDeTaureau_AgeDePierre_20201103.jpg "Oeil de Taureau")
+![Oeil de Taureau](/images/stones/OeildeTaureau_AgedePierre_20201103.jpg "Oeil de Taureau")
 
 ## Propriétés sur le corps physique
 
@@ -21,6 +21,6 @@ Description.
 [Source](https://)
 
 ## Acquisition
-Age De Pierre
+Âge de Pierre, Vevey
 
 03.11.2020

@@ -22,5 +22,3 @@ Description.
 
 ## Acquisition
 Gwendo D
-
-01.01.1970
