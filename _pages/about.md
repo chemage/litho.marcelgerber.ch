@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Pourquoi cette collection ?
 
-![vitrine](/images/vitrine_20200520_cropped.jpg "Vitrine"){:width="300px"}
+![recharge](/images/default_teaser_500x300.jpg "Recharge"){:width="600px"}{: .align-center}
 
 Avant mes 39 ans, je n'y connaissais absolument rien en pierres ou en lithothérapie.
 Je n'y connais toujours pas grand chose, mais j'ai appris quelques petites choses.
@@ -44,4 +44,4 @@ d'une pierre.
 Généralement je choisis des pierres qui "m'ont choisies", sauf si elles ne me correspondent
 absolument pas au niveau des propriétés.
 
-![recharge](/images/default_teaser_500x300.jpg "Recharge"){:width="600px"}
+![vitrine](/images/vitrine_20200520_cropped.jpg "Vitrine"){:width="300px"}{: .align-center}
