@@ -47,6 +47,6 @@ L’action se fait en priorité sur les chakras secondaires des pieds et des che
 1. Africa, some guy, 2013
 
 
-## Source
+## Source d'informations
 
 [pierres-lithotherapie.com](https://www.pierres-lithotherapie.com/tourmaline-noire-proprietes/)
