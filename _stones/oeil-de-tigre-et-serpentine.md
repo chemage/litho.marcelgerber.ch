@@ -5,9 +5,16 @@ excerpt: "Informations sur ma pierre Oeil de Tigre et Serpentine"
 ---
 
 ## Description
-Description.
+Bracelet alternant des perles de oeil de tigre avec des perles de serpentine.
 
-![Oeil de Tigre et Serpentine](/images/stones/OeilTigre-Serpentine_GwendoD_2020.jpg "Oeil de Tigre et Serpentine")
+Le bracelet s'est cassé dans un train en Indonésie à force de le mettre et le retirer.
+J'ai pu récupérer presque toutes les perles. Les autres ont quitté le train par le trou 
+dans les WC's.
+
+![Oeil de Tigre et Serpentine](/images/stones/OeilDeTigre-Serpentine_GwendoD_2020_1.jpg "Oeil de Tigre et Serpentine"){: .align-center}
+
+![Oeil de Tigre et Serpentine](/images/stones/OeilDeTigre-Serpentine_GwendoD_2020_2.jpg "Oeil de Tigre et Serpentine"){: .align-center}
+
 
 ## Propriétés sur le corps physique
 
@@ -21,4 +28,4 @@ Description.
 [Source](https://)
 
 ## Acquisition
-Gwendo D
+Gwendoline D., Nyon, unknown date

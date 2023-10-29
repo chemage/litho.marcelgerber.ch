@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Agate Beige"
 ## Description
 Description.
 
-![Agate Beige](/images/stones/AgateBeige_Africa_2010.jpg "Agate Beige")
+![Agate Beige](/images/stones/AgateBeige_Africa_2010.jpg "Agate Beige"){: .align-center}
 
 ## Propriétés sur le corps physique
 
@@ -21,6 +21,4 @@ Description.
 [Source](https://)
 
 ## Acquisition
-Africa
-
-2012/13
+Africa, some guy, 2013

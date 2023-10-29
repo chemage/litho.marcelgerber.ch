@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Bois Fossilise"
 ## Description
 Description.
 
-![Bois Fossilise](/images/stones/BoisFossilise_Kerstin_20200524.jpg "Bois Fossilise")
+![Bois Fossilise](/images/stones/BoisFossilise_Kerstin_20200524.jpg "Bois Fossilise"){: .align-center}
 
 ## Propriétés sur le corps physique
 
@@ -21,6 +21,4 @@ Description.
 [Source](https://)
 
 ## Acquisition
-Kerstin
-
-24.05.2020
+Kerstin S., Perroy, 24.05.2020

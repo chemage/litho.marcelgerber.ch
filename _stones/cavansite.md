@@ -7,8 +7,10 @@ excerpt: "Informations sur ma pierre Cavansite"
 ## Description
 Description.
 
-![Cavansite](/images/stones/Cavansite_Heliotrope_20211023.jpg "Cavansite")
-![Cavansite](/images/stones/Cavansite_Heliotrope_20211023_2.jpg "Cavansite")
+![Cavansite](/images/stones/Cavansite_Heliotrope_20211023.jpg "Cavansite"){: .align-center}
+
+![Cavansite](/images/stones/Cavansite_Heliotrope_20211023_2.jpg "Cavansite"){: .align-center}
+
 
 ## Propriétés sur le corps physique
 
@@ -22,6 +24,4 @@ Description.
 [Source](https://)
 
 ## Acquisition
-L'Héliotrope
-
-23.10.2021
+L'Héliotrope, Nyon, 23.10.2021

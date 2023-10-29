@@ -7,7 +7,8 @@ excerpt: "Informations sur ma pierre Obsidienne Flocons de Neige"
 ## description
 description.
 
-![Obsidienne Flocons de Neige](/images/stones/ObsidienneFloconsDeNeige_Kerstin_20200721.jpg "Obsidienne Flocons de Neige")
+![Obsidienne Flocons de Neige](/images/stones/ObsidienneFloconsDeNeige_Kerstin_20200721.jpg "Obsidienne Flocons de Neige"){: .align-center}
+
 
 ## Propriétés sur le corps physique
 
@@ -21,6 +22,4 @@ description.
 [Source](https://)
 
 ## Acquisition
-Kerstin
-
-21.07.2020
+Kerstin S., Perroy, 21.07.2020

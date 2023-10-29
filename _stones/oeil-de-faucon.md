@@ -9,7 +9,10 @@ excerpt: "Informations sur ma pierre Oeil de Faucon"
 ## Description
 Petite, ovale, couleur brun foncé et brun clair.
 
-![Oeil de Faucon](/images/stones/OeilDeFaucon_TresorsDHimalaya_20231028.jpg "Oeil de Faucon")
+![Oeil de Faucon](/images/stones/OeilDeFaucon_TresorsDHimalaya_20231028_1.jpg "Oeil de Faucon"){: .align-center}
+
+![Oeil de Faucon](/images/stones/OeilDeFaucon_TresorsDHimalaya_20231028_2.jpg "Oeil de Faucon"){: .align-center}
+
 
 ## Propriétés sur le corps physique
 L'oeil de faucon entretient et améliore nos facultés visuelles.Il est reconnu pour aider en cas de troubles de la vue, de fatigue visuelle, la cataracte.Ses effets sont puissants.
@@ -29,6 +32,4 @@ Il ouvre l'esprit aux idées neuves, stimule l'écoute des autres et nous apport
 [Source](https://nirvana-sante.blogspot.com/2013/07/oeil-de-faucon-pouvoir-sur-le-corps-et.html)
 
 ## Acquisition
-Trésors d'Himalaya, Yverdon-les-Bains
-
-28.10.2023
+Trésors d'Himalaya, Yverdon-les-Bains, 28.10.2023

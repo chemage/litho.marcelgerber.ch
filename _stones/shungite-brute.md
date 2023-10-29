@@ -7,7 +7,8 @@ excerpt: "Informations sur ma pierre Shungite Brute"
 ## description
 description.
 
-![Shungite Brute](/images/stones/ShungiteBrute_AgeDePierre_20201103.jpg "Shungite Brute")
+![Shungite Brute](/images/stones/ShungiteBrute_AgeDePierre_20201103.jpg "Shungite Brute"){: .align-center}
+
 
 ## Propriétés sur le corps physique
 
@@ -21,6 +22,4 @@ description.
 [Source](https://)
 
 ## Acquisition
-Âge de Pierre, Vevey
-
-03.11.2020
+L'Âge de Pierre, Vevey, 03.11.2020

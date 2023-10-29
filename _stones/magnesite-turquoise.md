@@ -7,7 +7,8 @@ excerpt: "Informations sur ma pierre Magnesite Turquoise"
 ## Description
 Petite turquoise avec veines grises.
 
-![Magnesite Turquoise](/images/stones/MagnesiteTurquoise_TresorsDHimalaya_20231028.jpg "Magnesite Turquoise")
+![Magnesite Turquoise](/images/stones/MagnesiteTurquoise_TresorsDHimalaya_20231028.jpg "Magnesite Turquoise"){: .align-center}
+
 
 ## Propriétés sur le corps physique
 La turquoise favorise le bon fonctionnement du foie et des glandes. Elle améliore la circulation et soulage les maladies oculaires.
@@ -31,6 +32,4 @@ Elle est un excellent auxiliaire dans les cas de dépression. Elle nous confèr
 [Source](https://nirvana-sante.blogspot.com/2014/01/cristaux-et-leurs-proprietes-la.html?m=0)
 
 ## Acquisition
-Trésors d'Himalaya, Yverdon-les-Bains
-
-28.10.2023
+Trésors d'Himalaya, Yverdon-les-Bains, 28.10.2023

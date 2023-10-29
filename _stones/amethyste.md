@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Amethyste"
 ## Description
 Description.
 
-![Amethyste](/images/stones/Amethyste_Kerstin_20200523.jpg "Amethyste")
+![Amethyste](/images/stones/Amethyste_Kerstin_20200523.jpg "Amethyste"){: .align-center}
 
 ## Propriétés sur le corps physique
 
@@ -21,6 +21,4 @@ Description.
 [Source](https://)
 
 ## Acquisition
-Kerstin
-
-23.05.2020
+Kerstin S., Perroy, 23.05.2020

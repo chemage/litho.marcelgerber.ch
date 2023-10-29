@@ -7,7 +7,8 @@ excerpt: "Informations sur ma pierre Oeil de Tigre"
 ## Description
 Description.
 
-![Oeil de Tigre](/images/stones/OeilDeTigre_Kerstin_20200524.jpg "Oeil de Tigre")
+![Oeil de Tigre](/images/stones/OeilDeTigre_Kerstin_20200524.jpg "Oeil de Tigre"){: .align-center}
+
 
 ## Propriétés sur le corps physique
 
@@ -21,6 +22,4 @@ Description.
 [Source](https://)
 
 ## Acquisition
-Kerstin
-
-24.05.2020
+Kerstin S., Perroy, 24.05.2020

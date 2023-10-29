@@ -5,9 +5,14 @@ excerpt: "Informations sur ma pierre Labradorite"
 ---
 
 ## Description
-Description.
+Sombre et terne sans lumière et s'illumine de couleurs verts, bleus et dorés avec la lumière.
 
-![Labradorite](/images/stones/Labradorite_Kerstin_20200524.jpg "Labradorite")
+![Labradorite](/images/stones/Labradorite_Kerstin_20200524_1.jpg "Labradorite"){: .align-center}
+
+![Labradorite](/images/stones/Labradorite_Kerstin_20200524_2.jpg "Labradorite"){: .align-center}
+
+![Labradorite](/images/stones/Labradorite_Kerstin_20200524_4.jpg "Labradorite"){: .align-center}
+
 
 ## Propriétés sur le corps physique
 
@@ -21,6 +26,4 @@ Description.
 [Source](https://)
 
 ## Acquisition
-Kerstin
-
-24.05.2020
+Kerstin S., Perroy, 24.05.2020

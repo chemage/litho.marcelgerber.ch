@@ -7,7 +7,8 @@ excerpt: "Informations sur ma pierre Fluorite"
 ## Description
 Description.
 
-![Fluorite](/images/stones/Fluorite_Africa_2010.jpg "Fluorite")
+![Fluorite](/images/stones/Fluorite_Africa_2010.jpg "Fluorite"){: .align-center}
+
 
 ## Propriétés sur le corps physique
 
@@ -21,6 +22,4 @@ Description.
 [Source](https://)
 
 ## Acquisition
-Africa
-
-2012/13
+Africa, some guy, 2013

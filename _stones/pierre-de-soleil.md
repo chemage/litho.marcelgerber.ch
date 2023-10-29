@@ -7,7 +7,8 @@ excerpt: "Informations sur ma pierre Pierre de Soleil"
 ## description
 description.
 
-![Pierre de Soleil](/images/stones/PierreDeSoleil_Heliotrope_20211023.jpg "Pierre de Soleil")
+![Pierre de Soleil](/images/stones/PierreDeSoleil_Heliotrope_20211023.jpg "Pierre de Soleil"){: .align-center}
+
 
 ## Propriétés sur le corps physique
 
@@ -21,6 +22,4 @@ description.
 [Source](https://)
 
 ## Acquisition
-L'Héliotrope, Nyon
-
-23.10.2021
+L'Héliotrope, Nyon, 23.10.2021

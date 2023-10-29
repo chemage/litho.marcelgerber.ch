@@ -7,7 +7,8 @@ excerpt: "Informations sur ma pierre Shungite"
 ## Description
 Description.
 
-![Shungite](/images/stones/Shungite_MyriamH_20200524.jpg "Shungite")
+![Shungite](/images/stones/Shungite_MyriamH_20200524.jpg "Shungite"){: .align-center}
+
 
 ## Propriétés sur le corps physique
 
@@ -21,6 +22,4 @@ Description.
 [Source](https://)
 
 ## Acquisition
-Myriam H
-
-24.05.2020
+Myriam H., Genève, 24.05.2020

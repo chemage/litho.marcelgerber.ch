@@ -5,9 +5,11 @@ excerpt: "Informations sur ma pierre Agate Bleue"
 ---
 
 ## Description
-Description.
+Bleue foncée et striée.
 
-![Agate Bleue](/images/stones/AgateBleue_GwendoD_2020.jpg "Agate Bleue")
+![Agate Bleue](/images/stones/AgateBleue_GwendoD_2020_1.jpg "Agate Bleue"){: .align-center}
+
+![Agate Bleue](/images/stones/AgateBleue_GwendoD_2020_2.jpg "Agate Bleue"){: .align-center}
 
 ## Propriétés sur le corps physique
 
@@ -21,4 +23,4 @@ Description.
 [Source](https://)
 
 ## Acquisition
-Gwendo D
+Gwendoline D., Nyon, 2020

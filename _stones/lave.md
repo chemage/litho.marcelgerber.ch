@@ -7,7 +7,8 @@ excerpt: "Informations sur ma pierre Lave"
 ## Description
 Description.
 
-![Lave](/images/stones/Lave_Kerstin_20200524.jpg "Lave")
+![Lave](/images/stones/Lave_Kerstin_20200524.jpg "Lave"){: .align-center}
+
 
 ## Propriétés sur le corps physique
 
@@ -21,6 +22,4 @@ Description.
 [Source](https://)
 
 ## Acquisition
-Kerstin
-
-24.05.2020
+Kerstin S., Perroy, 24.05.2020

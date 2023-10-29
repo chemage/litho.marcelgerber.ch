@@ -5,11 +5,14 @@ excerpt: "Informations sur ma pierre Cristal de Roche"
 ---
 
 ## Description
-Description.
+Cristaux en vrac pour la recharge, cristal brut pour la recharge et pierres polies.
 
-1. ![Cristal de Roche](/images/stones/CristalRoche_Kerstin_20200524_cristaux.jpg "Cristal de Roche")
-1. ![Cristal de Roche](/images/stones/CristalRoche_Kerstin_20200524_galets.jpg "Cristal de Roche")
-1. ![Cristal de Roche](/images/stones/CristalRoche_Kerstin_20200524_vrac.jpg "Cristal de Roche")
+![Cristal de Roche](/images/stones/CristalRoche_Kerstin_20200524_cristaux.jpg "Cristal de Roche"){: .align-center}
+
+![Cristal de Roche](/images/stones/CristalRoche_Kerstin_20200524_galets.jpg "Cristal de Roche"){: .align-center}
+
+![Cristal de Roche](/images/stones/CristalRoche_Kerstin_20200524_vrac.jpg "Cristal de Roche"){: .align-center}
+
 
 ## Propriétés sur le corps physique
 
@@ -23,6 +26,4 @@ Description.
 [Source](https://)
 
 ## Acquisition
-Kerstin
-
-24.05.2020
+Kerstin S., Perroy, 24.05.2020

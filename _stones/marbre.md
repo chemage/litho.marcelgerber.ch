@@ -7,7 +7,8 @@ excerpt: "Informations sur ma pierre Marbre"
 ## Description
 Description.
 
-![Marbre](/images/stones/Marbre_India_2016.jpg "Marbre")
+![Marbre](/images/stones/Marbre_India_2016.jpg "Marbre"){: .align-center}
+
 
 ## Propriétés sur le corps physique
 
@@ -21,6 +22,4 @@ Description.
 [Source](https://)
 
 ## Acquisition
-India
-
-2016
+India, some temple, 2016

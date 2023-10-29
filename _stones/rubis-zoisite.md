@@ -7,7 +7,8 @@ excerpt: "Informations sur ma pierre Rubis Zoisite"
 ## Description
 Description.
 
-![Rubis Zoisite](/images/stones/RubisZoisite_Zund_20230211.jpg "Rubis Zoisite")
+![Rubis Zoisite](/images/stones/RubisZoisite_Zund_20230211.jpg "Rubis Zoisite"){: .align-center}
+
 
 ## Propriétés sur le corps physique
 
@@ -21,6 +22,4 @@ Description.
 [Source](https://)
 
 ## Acquisition
-Zünd Event-Glasbläserei Heilstein-Atelier, Lamboing
-
-11.02.2023
+Zünd Event-Glasbläserei Heilstein-Atelier, Lamboing, 11.02.2023

@@ -5,9 +5,11 @@ excerpt: "Informations sur ma pierre Calcedoine"
 ---
 
 ## Description
-Description.
+Bleues claires et striées.
 
-![Calcedoine](/images/stones/Calcedoine_Kerstin_20200524.jpg "Calcedoine")
+![Calcedoine](/images/stones/Calcedoine_Kerstin_20200524_1.jpg "Calcedoine"){: .align-center}
+
+![Calcedoine](/images/stones/Calcedoine_Kerstin_20200524_2.jpg "Calcedoine"){: .align-center}
 
 ## Propriétés sur le corps physique
 
@@ -21,6 +23,4 @@ Description.
 [Source](https://)
 
 ## Acquisition
-Kerstin
-
-24.05.2020
+Kerstin S., Perroy, 24.05.2020

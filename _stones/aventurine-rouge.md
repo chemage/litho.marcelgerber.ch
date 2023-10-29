@@ -7,7 +7,7 @@ excerpt: "Informations sur ma pierre Aventurine Rouge"
 ## description
 description.
 
-![Aventurine Rouge](/images/stones/AventurineRouge_BijouxDeMaera_20201002.jpg "Aventurine Rouge")
+![Aventurine Rouge](/images/stones/AventurineRouge_BijouxDeMaera_20201002.jpg "Aventurine Rouge"){: .align-center}
 
 ## Propriétés sur le corps physique
 
@@ -21,6 +21,4 @@ description.
 [Source](https://)
 
 ## Acquisition
-Bijoux de Maera
-
-02.10.2020
+Bijoux de Maera, stand dans un centre commercial, 02.10.2020
