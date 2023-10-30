@@ -38,5 +38,4 @@ Kerstin S., Perroy, 24.05.2020
 
 
 ## Source d'informations
-
 [pierres-lithotherapie.com](https://www.pierres-lithotherapie.com/calcedoine-proprietes/)
