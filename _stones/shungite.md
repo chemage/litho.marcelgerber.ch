@@ -89,4 +89,4 @@ Si l’on en croit son histoire ancienne, les propriétés de la shungite ont é
 1. L'Âge de Pierre, Vevey, 03.11.2020
 
 ## Source d'information
-[Source](https://www.lithotherapie.net/articles/shungite/)
+[Lithothérapie.net](https://www.lithotherapie.net/articles/shungite/)
