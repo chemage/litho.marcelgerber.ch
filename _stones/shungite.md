@@ -13,6 +13,7 @@ Superbe minéral aux couleurs profondes, la shungite est extraite dans le nord d
 
 ### Les propriétés minérales de la shungite
 La shungite est une pierre originaire de Carélie en Russie. Elle se compose principalement de carbones, sous la forme de molécules de fullerènes.
+
 |Groupe|Carbones non cristallisés|
 |---|---|
 |Système cristallin|Amorphe|
