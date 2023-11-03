@@ -1,7 +1,7 @@
 ---
 title: "Shungite"
 permalink: /stones/shungite/
-excerpt: "Informations sur ma pierre Shungite"
+excerpt: "Informations sur mes pierres Shungite"
 ---
 
 ## Description
