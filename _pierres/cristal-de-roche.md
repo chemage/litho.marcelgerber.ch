@@ -3,7 +3,7 @@ title: "Cristal de Roche"
 permalink: /pierres/cristal-roche/
 excerpt: "Informations sur ma pierre Cristal de Roche"
 collection: pierres
-image: /assets/images/pierres/CristalRoche_Kerstin_20200524_cristaux.jpg "Cristal de Roche"
+image: /assets/images/pierres/CristalRoche_Kerstin_20200524_cristaux.jpg
 layout: single
 sidebar:
   nav: "sidebar"

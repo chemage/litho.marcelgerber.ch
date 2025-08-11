@@ -3,7 +3,7 @@ title: "Rose des Sables"
 permalink: /pierres/rose-des-sables/
 excerpt: "Informations sur ma pierre Rose des Sables"
 collection: pierres
-image: /assets/images/pierres/RoseDesSables_Kerstin_20200524.jpg "Rose des Sables"
+image: /assets/images/pierres/RoseDesSables_Kerstin_20200524.jpg
 layout: single
 sidebar:
   nav: "sidebar"

@@ -3,7 +3,7 @@ title: "Rubis Zoisite"
 permalink: /pierres/rubis-zoisite/
 excerpt: "Informations sur ma pierre Rubis Zoisite"
 collection: pierres
-image: /assets/images/pierres/RubisZoisite_Zund_20230211.jpg "Rubis Zoisite"
+image: /assets/images/pierres/RubisZoisite_Zund_20230211.jpg
 layout: single
 sidebar:
   nav: "sidebar"

@@ -3,7 +3,7 @@ title: "Labradorite"
 permalink: /pierres/labradorite/
 excerpt: "Informations sur ma pierre Labradorite"
 collection: pierres
-image: /assets/images/pierres/Labradorite_Kerstin_20200524_1.jpg "Labradorite"
+image: /assets/images/pierres/Labradorite_Kerstin_20200524_1.jpg
 layout: single
 sidebar:
   nav: "sidebar"

@@ -3,7 +3,7 @@ title: "Ambre"
 permalink: /pierres/ambre/
 excerpt: "Informations sur ma pierre Ambre"
 collection: pierres
-image: /assets/images/pierres/Ambre_Kerstin_20200524.jpg "Ambre"
+image: /assets/images/pierres/Ambre_Kerstin_20200524.jpg
 layout: single
 sidebar:
   nav: "sidebar"

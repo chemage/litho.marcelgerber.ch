@@ -3,7 +3,7 @@ title: "Aventurine Rouge"
 permalink: /pierres/aventurine-rouge/
 excerpt: "Informations sur ma pierre Aventurine Rouge"
 collection: pierres
-image: /assets/images/pierres/AventurineRouge_BijouxDeMaera_20201002.jpg "Aventurine Rouge"
+image: /assets/images/pierres/AventurineRouge_BijouxDeMaera_20201002.jpg
 layout: single
 sidebar:
   nav: "sidebar"

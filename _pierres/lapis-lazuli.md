@@ -3,7 +3,7 @@ title: "Lapis Lazuli"
 permalink: /pierres/lapis-lazuli/
 excerpt: "Informations sur ma pierre Lapis Lazuli"
 collection: pierres
-image: /assets/images/pierres/LapisLazuli_Kerstin_20200524.jpg "Lapis Lazuli"
+image: /assets/images/pierres/LapisLazuli_Kerstin_20200524.jpg
 layout: single
 sidebar:
   nav: "sidebar"

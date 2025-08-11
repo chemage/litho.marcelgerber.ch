@@ -3,7 +3,7 @@ title: "Selenite"
 permalink: /pierres/selenite/
 excerpt: "Informations sur ma pierre Selenite"
 collection: pierres
-image: /assets/images/pierres/Selenite_Kerstin_20200528.jpg "Selenite"
+image: /assets/images/pierres/Selenite_Kerstin_20200528.jpg
 layout: single
 sidebar:
   nav: "sidebar"

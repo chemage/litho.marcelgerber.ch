@@ -3,7 +3,7 @@ title: "Quartz Rose"
 permalink: /pierres/quartz-rose/
 excerpt: "Informations sur ma pierre Quartz Rose"
 collection: pierres
-image: /assets/images/pierres/QuartzRose_Kerstin_20200524_Coeur.jpg "Quartz Rose"
+image: /assets/images/pierres/QuartzRose_Kerstin_20200524_Coeur.jpg
 layout: single
 sidebar:
   nav: "sidebar"

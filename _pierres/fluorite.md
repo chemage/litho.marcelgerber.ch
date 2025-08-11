@@ -3,7 +3,7 @@ title: "Fluorite"
 permalink: /pierres/fluorite/
 excerpt: "Informations sur ma pierre Fluorite"
 collection: pierres
-image: /assets/images/pierres/Fluorite_Africa_2010.jpg "Fluorite"
+image: /assets/images/pierres/Fluorite_Africa_2010.jpg
 layout: single
 sidebar:
   nav: "sidebar"

@@ -3,7 +3,7 @@ title: "Hematite"
 permalink: /pierres/hematite/
 excerpt: "Informations sur ma pierre Hematite"
 collection: pierres
-image: /assets/images/pierres/Hematite_Kerstin_20200524.jpg "Hematite"
+image: /assets/images/pierres/Hematite_Kerstin_20200524.jpg
 layout: single
 sidebar:
   nav: "sidebar"

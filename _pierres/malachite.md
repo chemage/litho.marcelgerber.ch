@@ -3,7 +3,7 @@ title: "Malachite"
 permalink: /pierres/malachite/
 excerpt: "Informations sur ma pierre Malachite"
 collection: pierres
-image: /assets/images/pierres/Malachite_Kerstin_20200524.jpg "Malachite"
+image: /assets/images/pierres/Malachite_Kerstin_20200524.jpg
 layout: single
 sidebar:
   nav: "sidebar"

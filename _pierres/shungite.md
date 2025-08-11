@@ -3,7 +3,7 @@ title: "Shungite"
 permalink: /pierres/shungite/
 excerpt: "Informations sur mes pierres Shungite"
 collection: pierres
-image: /assets/images/pierres/Shungite_MyriamH_20200524.jpg "Shungite"
+image: /assets/images/pierres/Shungite_MyriamH_20200524.jpg
 layout: single
 sidebar:
   nav: "sidebar"

@@ -3,7 +3,7 @@ title: "Aventurine Verte"
 permalink: /pierres/aventurine-verte/
 excerpt: "Informations sur ma pierre Aventurine Verte"
 collection: pierres
-image: /assets/images/pierres/AventurineVerte_Zund_20230211.jpg "Aventurine Verte"
+image: /assets/images/pierres/AventurineVerte_Zund_20230211.jpg
 layout: single
 sidebar:
   nav: "sidebar"

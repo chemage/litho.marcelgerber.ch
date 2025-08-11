@@ -3,7 +3,7 @@ title: "Obsidienne Flocons de Neige"
 permalink: /pierres/obsidienne-flocons-de-neige/
 excerpt: "Informations sur ma pierre Obsidienne Flocons de Neige"
 collection: pierres
-image: /assets/images/pierres/ObsidienneFloconsDeNeige_Kerstin_20200721.jpg "Obsidienne Flocons de Neige"
+image: /assets/images/pierres/ObsidienneFloconsDeNeige_Kerstin_20200721.jpg
 layout: single
 sidebar:
   nav: "sidebar"

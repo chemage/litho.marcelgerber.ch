@@ -3,7 +3,7 @@ title: "Oeil de Taureau"
 permalink: /pierres/oeil-de-taureau/
 excerpt: "Informations sur ma pierre Oeil de Taureau"
 collection: pierres
-image: /assets/images/pierres/OeilDeTaureau_AgeDePierre_20201103.jpg "Oeil de Taureau"
+image: /assets/images/pierres/OeilDeTaureau_AgeDePierre_20201103.jpg
 layout: single
 sidebar:
   nav: "sidebar"

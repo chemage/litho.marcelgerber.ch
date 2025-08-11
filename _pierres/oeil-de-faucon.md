@@ -3,7 +3,7 @@ title: "Oeil de Faucon"
 permalink: /pierres/oeil-de-faucon/
 excerpt: "Informations sur ma pierre Oeil de Faucon"
 collection: pierres
-image: /assets/images/pierres/OeilDeFaucon_TresorsDHimalaya_20231028_1.jpg "Oeil de Faucon"
+image: /assets/images/pierres/OeilDeFaucon_TresorsDHimalaya_20231028_1.jpg
 layout: single
 sidebar:
   nav: "sidebar"

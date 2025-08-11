@@ -3,7 +3,7 @@ title: "Agate Botswana"
 permalink: /pierres/agate-botswana/
 excerpt: "Informations sur ma pierre Agate Botswana"
 collection: pierres
-image: /assets/images/pierres/AgateBotswana_AgeDePierre_20201103_pourGwendoD.jpg "Agate Botswana"
+image: /assets/images/pierres/AgateBotswana_AgeDePierre_20201103_pourGwendoD.jpg
 layout: single
 sidebar:
   nav: "sidebar"

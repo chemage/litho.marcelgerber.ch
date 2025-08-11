@@ -3,7 +3,7 @@ title: "Cavansite"
 permalink: /pierres/cavansite/
 excerpt: "Informations sur ma pierre Cavansite"
 collection: pierres
-image: /assets/images/pierres/Cavansite_Heliotrope_20211023.jpg "Cavansite"
+image: /assets/images/pierres/Cavansite_Heliotrope_20211023.jpg
 layout: single
 sidebar:
   nav: "sidebar"

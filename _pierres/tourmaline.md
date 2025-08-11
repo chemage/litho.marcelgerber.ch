@@ -3,7 +3,7 @@ title: "Tourmaline"
 permalink: /pierres/tourmaline/
 excerpt: "Informations sur ma pierre Tourmaline"
 collection: pierres
-image: /assets/images/pierres/Tourmaline_Kerstin_20200524_1.jpg "Tourmaline"
+image: /assets/images/pierres/Tourmaline_Kerstin_20200524_1.jpg
 layout: single
 sidebar:
   nav: "sidebar"

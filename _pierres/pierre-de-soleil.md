@@ -3,7 +3,7 @@ title: "Pierre de Soleil"
 permalink: /pierres/pierre-de-soleil/
 excerpt: "Informations sur ma pierre Pierre de Soleil"
 collection: pierres
-image: /assets/images/pierres/PierreDeSoleil_Heliotrope_20211023.jpg "Pierre de Soleil"
+image: /assets/images/pierres/PierreDeSoleil_Heliotrope_20211023.jpg
 layout: single
 sidebar:
   nav: "sidebar"

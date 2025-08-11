@@ -3,7 +3,7 @@ title: "Magnesite Turquoise"
 permalink: /pierres/magnesite-turquoise/
 excerpt: "Informations sur ma pierre Magnesite Turquoise"
 collection: pierres
-image: /assets/images/pierres/MagnesiteTurquoise_TresorsDHimalaya_20231028.jpg "Magnesite Turquoise"
+image: /assets/images/pierres/MagnesiteTurquoise_TresorsDHimalaya_20231028.jpg
 layout: single
 sidebar:
   nav: "sidebar"

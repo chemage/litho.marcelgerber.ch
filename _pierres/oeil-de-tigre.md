@@ -3,7 +3,7 @@ title: "Oeil de Tigre"
 permalink: /pierres/oeil-de-tigre/
 excerpt: "Informations sur ma pierre Oeil de Tigre"
 collection: pierres
-image: /assets/images/pierres/OeilDeTigre_Kerstin_20200524.jpg "Oeil de Tigre"
+image: /assets/images/pierres/OeilDeTigre_Kerstin_20200524.jpg
 layout: single
 sidebar:
   nav: "sidebar"

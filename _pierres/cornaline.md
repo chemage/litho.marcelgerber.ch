@@ -3,7 +3,7 @@ title: "Cornaline"
 permalink: /pierres/cornaline/
 excerpt: "Informations sur ma pierre Cornaline"
 collection: pierres
-image: /assets/images/pierres/Cornaline_Kerstin_20200524.jpg "Cornaline"
+image: /assets/images/pierres/Cornaline_Kerstin_20200524.jpg
 layout: single
 sidebar:
   nav: "sidebar"

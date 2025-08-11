@@ -3,7 +3,7 @@ title: "Sodalite"
 permalink: /pierres/sodalite/
 excerpt: "Informations sur ma pierre Sodalite"
 collection: pierres
-image: /assets/images/pierres/Sodalite_Africa_2010.jpg "Sodalite"
+image: /assets/images/pierres/Sodalite_Africa_2010.jpg
 layout: single
 sidebar:
   nav: "sidebar"

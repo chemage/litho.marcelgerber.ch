@@ -3,7 +3,7 @@ title: "Oeil de Tigre et Serpentine"
 permalink: /pierres/oeil-de-tigre-et-serpentine/
 excerpt: "Informations sur ma pierre Oeil de Tigre et Serpentine"
 collection: pierres
-image: /assets/images/pierres/OeilDeTigre-Serpentine_GwendoD_2020_1.jpg "Oeil de Tigre et Serpentine"
+image: /assets/images/pierres/OeilDeTigre-Serpentine_GwendoD_2020_1.jpg
 layout: single
 sidebar:
   nav: "sidebar"

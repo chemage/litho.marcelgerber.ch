@@ -3,7 +3,7 @@ title: "Calcedoine"
 permalink: /pierres/calcedoine/
 excerpt: "Informations sur ma pierre Calcedoine"
 collection: pierres
-image: /assets/images/pierres/Calcedoine_Kerstin_20200524_1.jpg "Calcedoine"
+image: /assets/images/pierres/Calcedoine_Kerstin_20200524_1.jpg
 layout: single
 sidebar:
   nav: "sidebar"

@@ -3,7 +3,7 @@ title: "Lepidolite"
 permalink: /pierres/lepidolite/
 excerpt: "Informations sur ma pierre Lepidolite"
 collection: pierres
-image: /assets/images/pierres/Lepidolite_Kerstin_20200524.jpg "Lepidolite"
+image: /assets/images/pierres/Lepidolite_Kerstin_20200524.jpg
 layout: single
 sidebar:
   nav: "sidebar"

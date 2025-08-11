@@ -3,7 +3,7 @@ title: "Amethyste"
 permalink: /pierres/amethyste/
 excerpt: "Informations sur ma pierre Amethyste"
 collection: pierres
-image: /assets/images/pierres/Amethyste_Kerstin_20200523.jpg "Amethyste"
+image: /assets/images/pierres/Amethyste_Kerstin_20200523.jpg
 layout: single
 sidebar:
   nav: "sidebar"

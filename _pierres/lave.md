@@ -3,7 +3,7 @@ title: "Lave"
 permalink: /pierres/lave/
 excerpt: "Informations sur ma pierre Lave"
 collection: pierres
-image: /assets/images/pierres/Lave_Kerstin_20200524.jpg "Lave"
+image: /assets/images/pierres/Lave_Kerstin_20200524.jpg
 layout: single
 sidebar:
   nav: "sidebar"

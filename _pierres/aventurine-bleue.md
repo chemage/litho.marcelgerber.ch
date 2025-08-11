@@ -3,7 +3,7 @@ title: "Aventurine Bleue"
 permalink: /pierres/aventurine-bleue/
 excerpt: "Informations sur ma pierre Aventurine Bleue"
 collection: pierres
-image: /assets/images/pierres/AventurineBleue_BijouxDeMaera_20201002.jpg "Aventurine Bleue"
+image: /assets/images/pierres/AventurineBleue_BijouxDeMaera_20201002.jpg
 layout: single
 sidebar:
   nav: "sidebar"

@@ -3,7 +3,7 @@ title: "Jaspe Bourdon"
 permalink: /pierres/jaspe-bourdon/
 excerpt: "Informations sur ma pierre Jaspe Bourdon"
 collection: pierres
-image: /assets/images/pierres/JaspeBourdon_BijouxDeMaera_20201002.jpg "Jaspe Bourdon"
+image: /assets/images/pierres/JaspeBourdon_BijouxDeMaera_20201002.jpg
 layout: single
 sidebar:
   nav: "sidebar"

@@ -3,7 +3,7 @@ title: "Elephant"
 permalink: /pierres/elephant/
 excerpt: "Informations sur ma pierre Elephant"
 collection: pierres
-image: /assets/images/pierres/Elephant_Italia_2018.jpg "Elephant"
+image: /assets/images/pierres/Elephant_Italia_2018.jpg
 layout: single
 sidebar:
   nav: "sidebar"

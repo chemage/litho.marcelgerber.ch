@@ -3,7 +3,7 @@ title: "Chrysocolle"
 permalink: /pierres/chrysocolle/
 excerpt: "Informations sur ma pierre Chrysocolle"
 collection: pierres
-image: /assets/images/pierres/Chrysocolle_Africa_2010.jpg "Chrysocolle"
+image: /assets/images/pierres/Chrysocolle_Africa_2010.jpg
 layout: single
 sidebar:
   nav: "sidebar"

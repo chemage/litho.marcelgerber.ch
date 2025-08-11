@@ -3,7 +3,7 @@ title: "Oeil de Fer"
 permalink: /pierres/oeil-de-fer/
 excerpt: "Informations sur ma pierre Oeil de Fer"
 collection: pierres
-image: /assets/images/pierres/OeilDeFer_AgeDePierre_20201103_1.jpg "Oeil de Fer"
+image: /assets/images/pierres/OeilDeFer_AgeDePierre_20201103_1.jpg
 layout: single
 sidebar:
   nav: "sidebar"

@@ -3,7 +3,7 @@ title: "Hypersthene"
 permalink: /pierres/hypersthene/
 excerpt: "Informations sur ma pierre Hypersthene"
 collection: pierres
-image: /assets/images/pierres/Hypersthene_AgeDePierre_20201103_1.jpg "Hypersthene"
+image: /assets/images/pierres/Hypersthene_AgeDePierre_20201103_1.jpg
 layout: single
 sidebar:
   nav: "sidebar"

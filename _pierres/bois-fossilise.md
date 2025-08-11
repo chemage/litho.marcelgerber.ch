@@ -3,7 +3,7 @@ title: "Bois Fossilise"
 permalink: /pierres/bois-fossilise/
 excerpt: "Informations sur ma pierre Bois Fossilise"
 collection: pierres
-image: /assets/images/pierres/BoisFossilise_Kerstin_20200524.jpg "Bois Fossilise"
+image: /assets/images/pierres/BoisFossilise_Kerstin_20200524.jpg
 layout: single
 sidebar:
   nav: "sidebar"

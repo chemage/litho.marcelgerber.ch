@@ -3,7 +3,7 @@ title: "Quartz Rose Avec Cristal de Roche"
 permalink: /pierres/quartz-rose-avec-cristal-de-roche/
 excerpt: "Informations sur ma pierre Quartz Rose Avec Cristal de Roche"
 collection: pierres
-image: /assets/images/pierres/QuartzRoseAvecCristalDeRoche_notknown_notknown.jpg "Quartz Rose Avec Cristal de Roche"
+image: /assets/images/pierres/QuartzRoseAvecCristalDeRoche_notknown_notknown.jpg
 layout: single
 sidebar:
   nav: "sidebar"

@@ -3,7 +3,7 @@ title: "Agate Beige"
 permalink: /pierres/agate-beige/
 excerpt: "Informations sur ma pierre Agate Beige"
 collection: pierres
-image: /assets/images/pierres/AgateBeige_Africa_2010.jpg "Agate Beige"
+image: /assets/images/pierres/AgateBeige_Africa_2010.jpg
 layout: single
 sidebar:
   nav: "sidebar"

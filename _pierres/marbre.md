@@ -3,7 +3,7 @@ title: "Marbre"
 permalink: /pierres/marbre/
 excerpt: "Informations sur ma pierre Marbre"
 collection: pierres
-image: /assets/images/pierres/Marbre_India_2016.jpg "Marbre"
+image: /assets/images/pierres/Marbre_India_2016.jpg
 layout: single
 sidebar:
   nav: "sidebar"
