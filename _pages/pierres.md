@@ -8,8 +8,19 @@ sidebar:
 author_profile: false
 ---
 
-{% for pierre in site.pierres %}
-  <h2><a href="{{ pierre.url }}">{{ pierre.title }}</a></h2>
-  <p>{{ pierre.excerpt }}</p>
+<div class="cards">
+{% for item in site.pierres %}
+  <article class="card">
+    <a href="{{ item.url }}">
+      <h3 class="card-title">{{ item.title }}</h3>
+      </a>
+    <div class="card-content">
+    <div class="card-text">{{ item.excerpt }}</div>
+    </div>
+    <a href="{{ item.url }}">
+      <img class="card-image" src="{{ item.image }}" alt="{{ item.title }}">
+    </a>
+  </article>
 {% endfor %}
+</div>
 

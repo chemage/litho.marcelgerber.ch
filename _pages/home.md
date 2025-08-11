@@ -9,9 +9,5 @@ author_profile: false
 
 ---
 
-# Home
-
-This is the Homepage !
-
-Help, it's not working.
+Bienvenue sur ma page de litothérapie
 
