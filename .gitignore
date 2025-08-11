@@ -1,29 +1,19 @@
-# Vim
-*~
-*.sw[p_]
-
-# Sublime Text
-*.sublime-project
-*.sublime-workspace
-
-# Ruby Gem
-*.gem
-.bundle
+# Ignore gem dependencies
+gems/
+.bundle/
+vendor/
 Gemfile.lock
-**/vendor/bundle
 
-# Node.js and NPM
-node_modules
-npm-debug.log*
-package-lock.json
-codekit-config.json
-
-# macOS
-.DS_Store
-
-# Jekyll generated files
-.jekyll-cache
+# Ignore Jekyll cache and build files
+_site/
 .jekyll-metadata
-.sass-cache
-_asset_bundler_cache
-_site
+.jekyll-cache/
+.sass-cache/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore logs or temp files
+*.log
+*.tmp

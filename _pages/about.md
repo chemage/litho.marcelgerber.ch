@@ -1,7 +1,11 @@
 ---
 title: "À Propos"
-permalink: /about/
-
+permalink: /apropos/
+nav_order: 2
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 ## Pourquoi cette collection ?

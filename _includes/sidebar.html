@@ -1,33 +1,33 @@
-{% if page.author_profile or layout.author_profile or page.sidebar %}
-  <div class="sidebar sticky">
-  <!-- MARCEL MENU -->
-  {% if site.stones %}
-    <h3>Pierres</h3>
-    <nav class="nav__list">
-      <input id="ac-toc" name="accordion-toc" type="checkbox" />
-      <label for="ac-toc">Stones</label>
-      <ul class="nav__items">
-        {% for s in site.stones %}
-          <li><a href="{{ s.url | relative_url }}"><span class="nav__sub-title">{{ s.title }}</span></a></li>
+<aside class="sidebar sticky" role="complementary" aria-label="Sidebar navigation">
+  <nav class="sidebar-nav" aria-label="Sidebar menu">
+
+    <!-- Static menu items -->
+    <ul class="nav__list">
+      <li class="nav__heading">Menu</li>
+      {% assign sidebar_menu = site.data.navigation.sidebar %}
+      {% for item in sidebar_menu %}
+        <li class="nav__item">
+          <a href="{{ item.url | relative_url }}" class="nav__link{% if page.url == item.url %} active{% endif %}">
+            {{ item.title }}
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+
+    <!-- Gear collection -->
+    {% assign stone_items = site.stones | sort: 'nav_order' %}
+    {% if stone_items.size > 0 %}
+      <ul class="nav__list">
+        <li class="nav__heading">Pierres</li>
+        {% for pierre in pierres %}
+          <li class="nav__item">
+            <a href="{{ pierre.url | relative_url }}" class="nav__link{% if page.url == pierre.url %} active{% endif %}">
+              {{ pierre.title }}
+            </a>
+          </li>
         {% endfor %}
       </ul>
-    </nav>
-  {% endif %}
-  <!-- END MARCEL MENU -->
-  {% if page.sidebar %}
-    {% for s in page.sidebar %}
-      {% if s.image %}
-        <img src="{{ s.image | relative_url }}"
-             alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
-      {% endif %}
-      {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
-      {% if s.text %}{{ s.text | markdownify }}{% endif %}
-      {% if s.nav %}{% include nav_list nav=s.nav %}{% endif %}
-    {% endfor %}
-    {% if page.sidebar.nav %}
-      {% include nav_list nav=page.sidebar.nav %}
     {% endif %}
-  {% endif %}
-  {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
-  </div>
-{% endif %}
+
+  </nav>
+</aside>

@@ -1,13 +1,20 @@
 ---
 title: "Agate Beige"
-permalink: /stones/agate-beige/
+permalink: /pierres/agate-beige/
 excerpt: "Informations sur ma pierre Agate Beige"
+collection: pierres
+image: /images/pierres/AgateBeige_Africa_2010.jpg
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 ## Description
 Description.
 
-![Agate Beige](/images/stones/AgateBeige_Africa_2010.jpg "Agate Beige"){: .align-center}
+![{{page.title}}]({{page.image}} "Agate Beige"){: .align-center}
 
 ## Propriétés sur le corps physique
 

@@ -1,7 +1,18 @@
 
 # main links
 main:
-  - title: "Pierres"
+  - title: "Accueil"
     url: "/"
+  - title: "Pierres"
+    url: "/pierres/"
   - title: "À Propos"
-    url: "/about/"
+    url: "/apropos/"
+
+sidebar:
+  - title: "Accueil"
+    url: "/"
+  - title: "Pierres"
+    url: "/pierres/"
+  - title: "À Propos"
+    url: "/apropos/"
+
