@@ -8,7 +8,7 @@ sidebar:
 author_profile: false
 ---
 
-## Pourquoi cette collection ?
+## Pourquoi cette collection ? 
 
 ![recharge](/assets/images/default_teaser_500x300.jpg "Recharge"){:width="600px"}{: .align-center}
 
