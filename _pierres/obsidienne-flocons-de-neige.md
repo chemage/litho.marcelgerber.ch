@@ -1,13 +1,20 @@
 ---
 title: "Obsidienne Flocons de Neige"
-permalink: /stones/obsidienne-flocons-de-neige/
+permalink: /pierres/obsidienne-flocons-de-neige/
 excerpt: "Informations sur ma pierre Obsidienne Flocons de Neige"
+collection: pierres
+image: /assets/images/pierres/ObsidienneFloconsDeNeige_Kerstin_20200721.jpg "Obsidienne Flocons de Neige"
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 ## description
 L’obsidienne mouchetée est aussi appelé obsidienne étoilée, neige, flocon de neige, c’est une pierre noire avec des taches gris clair, elle aide à faire la part des choses entre notre vie matérielle et spirituelle.
 
-![Obsidienne Flocons de Neige](/images/stones/ObsidienneFloconsDeNeige_Kerstin_20200721.jpg "Obsidienne Flocons de Neige"){: .align-center}
+![{{page.title}}]({{page.image}} "Obsidienne Flocons de Neige"){: .align-center}
 
 
 ## Purification et rechargement

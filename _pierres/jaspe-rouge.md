@@ -1,13 +1,20 @@
 ---
 title: "Jaspe Rouge"
-permalink: /stones/jaspe-rouge/
+permalink: /pierres/jaspe-rouge/
 excerpt: "Informations sur ma pierre Jaspe Rouge"
+collection: pierres
+image: /assets/images/pierres/JaspeRouge_Kerstin_20200524.jpg "Jaspe Rouge"
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 ## Description
 Description.
 
-![Jaspe Rouge](/images/stones/JaspeRouge_Kerstin_20200524.jpg "Jaspe Rouge"){: .align-center}
+![{{page.title}}]({{page.image}} "Jaspe Rouge"){: .align-center}
 
 
 ## Propriétés sur le corps physique

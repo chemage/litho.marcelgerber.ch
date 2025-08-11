@@ -1,13 +1,20 @@
 ---
 title: "Cornaline"
-permalink: /stones/cornaline/
+permalink: /pierres/cornaline/
 excerpt: "Informations sur ma pierre Cornaline"
+collection: pierres
+image: /assets/images/pierres/Cornaline_Kerstin_20200524.jpg "Cornaline"
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 ## Description
 Le nom cornaline fait référence au fruit rouge du cornouiller cornus mas en latin, qui c’est une variété de calcédoine de couleur orange à rouge.
 
-![Cornaline](/images/stones/Cornaline_Kerstin_20200524.jpg "Cornaline"){: .align-center}
+![{{page.title}}]({{page.image}} "Cornaline"){: .align-center}
 
 
 ## Propriétés sur le corps physique

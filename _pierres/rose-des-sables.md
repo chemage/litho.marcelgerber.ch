@@ -1,13 +1,20 @@
 ---
 title: "Rose des Sables"
-permalink: /stones/rose-des-sables/
+permalink: /pierres/rose-des-sables/
 excerpt: "Informations sur ma pierre Rose des Sables"
+collection: pierres
+image: /assets/images/pierres/RoseDesSables_Kerstin_20200524.jpg "Rose des Sables"
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 ## description
 description.
 
-![Rose des Sables](/images/stones/RoseDesSables_Kerstin_20200524.jpg "Rose des Sables"){: .align-center}
+![{{page.title}}]({{page.image}} "Rose des Sables"){: .align-center}
 
 
 ## Propriétés sur le corps physique

@@ -1,13 +1,20 @@
 ---
 title: "Ambre"
-permalink: /stones/ambre/
+permalink: /pierres/ambre/
 excerpt: "Informations sur ma pierre Ambre"
+collection: pierres
+image: /assets/images/pierres/Ambre_Kerstin_20200524.jpg "Ambre"
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 ## Description
 Description.
 
-![Ambre](/images/stones/Ambre_Kerstin_20200524.jpg "Ambre"){: .align-center}
+![{{page.title}}]({{page.image}} "Ambre"){: .align-center}
 
 ## Propriétés sur le corps physique
 

@@ -1,13 +1,20 @@
 ---
 title: "Fluorite"
-permalink: /stones/fluorite/
+permalink: /pierres/fluorite/
 excerpt: "Informations sur ma pierre Fluorite"
+collection: pierres
+image: /assets/images/pierres/Fluorite_Africa_2010.jpg "Fluorite"
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 ## Description
 Description.
 
-![Fluorite](/images/stones/Fluorite_Africa_2010.jpg "Fluorite"){: .align-center}
+![{{page.title}}]({{page.image}} "Fluorite"){: .align-center}
 
 
 ## Propriétés sur le corps physique

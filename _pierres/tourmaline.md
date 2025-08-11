@@ -1,22 +1,29 @@
 ---
 title: "Tourmaline"
-permalink: /stones/tourmaline/
+permalink: /pierres/tourmaline/
 excerpt: "Informations sur ma pierre Tourmaline"
+collection: pierres
+image: /assets/images/pierres/Tourmaline_Kerstin_20200524_1.jpg "Tourmaline"
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 ## Description
 Description.
 
 1. <br>
-![Tourmaline](/images/stones/Tourmaline_Kerstin_20200524_1.jpg "Tourmaline"){: .align-center}
+![{{page.title}}]({{page.image}} "Tourmaline"){: .align-center}
 <br>
-![Tourmaline](/images/stones/Tourmaline_Kerstin_20200524_2.jpg "Tourmaline"){: .align-center}
+![Tourmaline](/assets/images/pierres/Tourmaline_Kerstin_20200524_2.jpg "Tourmaline" "Tourmaline"){: .align-center}
 <br>
-![Tourmaline](/images/stones/Tourmaline_Kerstin_20200524_3.jpg "Tourmaline"){: .align-center}
+![Tourmaline](/assets/images/pierres/Tourmaline_Kerstin_20200524_3.jpg "Tourmaline" "Tourmaline"){: .align-center}
 1. <br>
-![Tourmaline](/images/stones/Tourmaline_Africa_2013_1.jpg "Tourmaline"){: .align-center}
+![Tourmaline](/assets/images/pierres/Tourmaline_Africa_2013_1.jpg "Tourmaline" "Tourmaline"){: .align-center}
 <br>
-![Tourmaline](/images/stones/Tourmaline_Africa_2013_2.jpg "Tourmaline"){: .align-center}
+![Tourmaline](/assets/images/pierres/Tourmaline_Africa_2013_2.jpg "Tourmaline" "Tourmaline"){: .align-center}
 
 
 ## Propriétés sur le corps physique

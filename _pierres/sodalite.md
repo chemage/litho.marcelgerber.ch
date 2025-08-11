@@ -1,13 +1,20 @@
 ---
 title: "Sodalite"
-permalink: /stones/sodalite/
+permalink: /pierres/sodalite/
 excerpt: "Informations sur ma pierre Sodalite"
+collection: pierres
+image: /assets/images/pierres/Sodalite_Africa_2010.jpg "Sodalite"
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 ## Description
 Description.
 
-![Sodalite](/images/stones/Sodalite_Africa_2010.jpg "Sodalite"){: .align-center}
+![{{page.title}}]({{page.image}} "Sodalite"){: .align-center}
 
 
 ## Propriétés sur le corps physique

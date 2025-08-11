@@ -1,13 +1,20 @@
 ---
 title: "Bois Fossilise"
-permalink: /stones/bois-fossilise/
+permalink: /pierres/bois-fossilise/
 excerpt: "Informations sur ma pierre Bois Fossilise"
+collection: pierres
+image: /assets/images/pierres/BoisFossilise_Kerstin_20200524.jpg "Bois Fossilise"
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 ## Description
 Description.
 
-![Bois Fossilise](/images/stones/BoisFossilise_Kerstin_20200524.jpg "Bois Fossilise"){: .align-center}
+![{{page.title}}]({{page.image}} "Bois Fossilise"){: .align-center}
 
 ## Propriétés sur le corps physique
 

@@ -1,13 +1,20 @@
 ---
 title: "Magnesite Turquoise"
-permalink: /stones/magnesite-turquoise/
+permalink: /pierres/magnesite-turquoise/
 excerpt: "Informations sur ma pierre Magnesite Turquoise"
+collection: pierres
+image: /assets/images/pierres/MagnesiteTurquoise_TresorsDHimalaya_20231028.jpg "Magnesite Turquoise"
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 ## Description
 Petite turquoise avec veines grises.
 
-![Magnesite Turquoise](/images/stones/MagnesiteTurquoise_TresorsDHimalaya_20231028.jpg "Magnesite Turquoise"){: .align-center}
+![{{page.title}}]({{page.image}} "Magnesite Turquoise"){: .align-center}
 
 
 ## Propriétés sur le corps physique

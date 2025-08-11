@@ -1,13 +1,20 @@
 ---
 title: "Oeil de Taureau"
-permalink: /stones/oeil-de-taureau/
+permalink: /pierres/oeil-de-taureau/
 excerpt: "Informations sur ma pierre Oeil de Taureau"
+collection: pierres
+image: /assets/images/pierres/OeilDeTaureau_AgeDePierre_20201103.jpg "Oeil de Taureau"
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 ## description
 description.
 
-![Oeil de Taureau](/images/stones/OeilDeTaureau_AgeDePierre_20201103.jpg "Oeil de Taureau"){: .align-center}
+![{{page.title}}]({{page.image}} "Oeil de Taureau"){: .align-center}
 
 
 ## Propriétés sur le corps physique

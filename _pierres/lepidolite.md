@@ -1,13 +1,20 @@
 ---
 title: "Lepidolite"
-permalink: /stones/lepidolite/
+permalink: /pierres/lepidolite/
 excerpt: "Informations sur ma pierre Lepidolite"
+collection: pierres
+image: /assets/images/pierres/Lepidolite_Kerstin_20200524.jpg "Lepidolite"
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 ## Description
 Description.
 
-![Lepidolite](/images/stones/Lepidolite_Kerstin_20200524.jpg "Lepidolite"){: .align-center}
+![{{page.title}}]({{page.image}} "Lepidolite"){: .align-center}
 
 
 ## Propriétés sur le corps physique

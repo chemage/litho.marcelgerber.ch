@@ -1,14 +1,21 @@
 ---
 title: "Shungite"
-permalink: /stones/shungite/
+permalink: /pierres/shungite/
 excerpt: "Informations sur mes pierres Shungite"
+collection: pierres
+image: /assets/images/pierres/Shungite_MyriamH_20200524.jpg "Shungite"
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 ## Description
 Superbe minéral aux couleurs profondes, la shungite est extraite dans le nord de la Russie. Elle est associée au symbole du bouclier et constitue une puissante source de vitalité. Son usage, en lithothérapie, englobe de multiples actions autour des maux physiques et psychiques, axées sur la protection et l’ancrage avec la terre en tant que force vive.
 
-1. ![Shungite](/images/stones/Shungite_MyriamH_20200524.jpg "Shungite"){: .align-center}
-1. ![Shungite Brute](/images/stones/ShungiteBrute_AgeDePierre_20201103.jpg "Shungite Brute"){: .align-center}
+![{{page.title}}]({{page.image}} "Shungite"){: .align-center}
+1. ![Shungite Brute](/assets/images/pierres/ShungiteBrute_AgeDePierre_20201103.jpg "Shungite Brute" "Shungite Brute"){: .align-center}
 
 
 ### Les propriétés minérales de la shungite

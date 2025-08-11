@@ -1,13 +1,20 @@
 ---
 title: "Aventurine Rouge"
-permalink: /stones/aventurine-rouge/
+permalink: /pierres/aventurine-rouge/
 excerpt: "Informations sur ma pierre Aventurine Rouge"
+collection: pierres
+image: /assets/images/pierres/AventurineRouge_BijouxDeMaera_20201002.jpg "Aventurine Rouge"
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 ## description
 description.
 
-![Aventurine Rouge](/images/stones/AventurineRouge_BijouxDeMaera_20201002.jpg "Aventurine Rouge"){: .align-center}
+![{{page.title}}]({{page.image}} "Aventurine Rouge"){: .align-center}
 
 ## Propriétés sur le corps physique
 

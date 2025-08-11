@@ -1,15 +1,22 @@
 ---
 title: "Cavansite"
-permalink: /stones/cavansite/
+permalink: /pierres/cavansite/
 excerpt: "Informations sur ma pierre Cavansite"
+collection: pierres
+image: /assets/images/pierres/Cavansite_Heliotrope_20211023.jpg "Cavansite"
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 ## Description
 Description.
 
-![Cavansite](/images/stones/Cavansite_Heliotrope_20211023.jpg "Cavansite"){: .align-center}
+![{{page.title}}]({{page.image}} "Cavansite"){: .align-center}
 
-![Cavansite](/images/stones/Cavansite_Heliotrope_20211023_2.jpg "Cavansite"){: .align-center}
+![Cavansite](/assets/images/pierres/Cavansite_Heliotrope_20211023_2.jpg "Cavansite" "Cavansite"){: .align-center}
 
 
 ## Propriétés sur le corps physique

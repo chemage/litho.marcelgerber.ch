@@ -1,13 +1,20 @@
 ---
 title: "Chrysocolle"
-permalink: /stones/chrysocolle/
+permalink: /pierres/chrysocolle/
 excerpt: "Informations sur ma pierre Chrysocolle"
+collection: pierres
+image: /assets/images/pierres/Chrysocolle_Africa_2010.jpg "Chrysocolle"
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 ## Description
 Le nom chrysocolle vient de son  utilisation passé comme auxiliaire de fabrication pour la technique de granulation des bijoux en or. C’est une pierre entre le bleu et le vert la couleur varie en fonction des minéraux qui la compose. Elle est utilisée comme pierre d’argent, de communication, anti-douleur.
 
-![Chrysocolle](/images/stones/Chrysocolle_Africa_2010.jpg "Chrysocolle"){: .align-center}
+![{{page.title}}]({{page.image}} "Chrysocolle"){: .align-center}
 
 
 ## Propriétés sur le corps physique

@@ -1,13 +1,20 @@
 ---
 title: "Aventurine Verte"
-permalink: /stones/aventurine-verte/
+permalink: /pierres/aventurine-verte/
 excerpt: "Informations sur ma pierre Aventurine Verte"
+collection: pierres
+image: /assets/images/pierres/AventurineVerte_Zund_20230211.jpg "Aventurine Verte"
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 ## Description
 Description.
 
-![Aventurine Verte](/images/stones/AventurineVerte_Zund_20230211.jpg "Aventurine Verte"){: .align-center}
+![{{page.title}}]({{page.image}} "Aventurine Verte"){: .align-center}
 
 ## Propriétés sur le corps physique
 

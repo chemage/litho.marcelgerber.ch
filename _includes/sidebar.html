@@ -15,8 +15,8 @@
     </ul>
 
     <!-- Gear collection -->
-    {% assign stone_items = site.stones | sort: 'nav_order' %}
-    {% if stone_items.size > 0 %}
+    {% assign pierres = site.pierres | sort: 'nav_order' %}
+    {% if pierres.size > 0 %}
       <ul class="nav__list">
         <li class="nav__heading">Pierres</li>
         {% for pierre in pierres %}

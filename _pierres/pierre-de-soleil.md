@@ -1,13 +1,20 @@
 ---
 title: "Pierre de Soleil"
-permalink: /stones/pierre-de-soleil/
+permalink: /pierres/pierre-de-soleil/
 excerpt: "Informations sur ma pierre Pierre de Soleil"
+collection: pierres
+image: /assets/images/pierres/PierreDeSoleil_Heliotrope_20211023.jpg "Pierre de Soleil"
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 ## description
 description.
 
-![Pierre de Soleil](/images/stones/PierreDeSoleil_Heliotrope_20211023.jpg "Pierre de Soleil"){: .align-center}
+![{{page.title}}]({{page.image}} "Pierre de Soleil"){: .align-center}
 
 
 ## Propriétés sur le corps physique

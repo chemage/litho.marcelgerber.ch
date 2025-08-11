@@ -1,13 +1,20 @@
 ---
 title: "Amethyste"
-permalink: /stones/amethyste/
+permalink: /pierres/amethyste/
 excerpt: "Informations sur ma pierre Amethyste"
+collection: pierres
+image: /assets/images/pierres/Amethyste_Kerstin_20200523.jpg "Amethyste"
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 ## Description
 Description.
 
-![Amethyste](/images/stones/Amethyste_Kerstin_20200523.jpg "Amethyste"){: .align-center}
+![{{page.title}}]({{page.image}} "Amethyste"){: .align-center}
 
 ## Propriétés sur le corps physique
 

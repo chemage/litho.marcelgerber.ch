@@ -1,13 +1,20 @@
 ---
 title: "Rubis Zoisite"
-permalink: /stones/rubis-zoisite/
+permalink: /pierres/rubis-zoisite/
 excerpt: "Informations sur ma pierre Rubis Zoisite"
+collection: pierres
+image: /assets/images/pierres/RubisZoisite_Zund_20230211.jpg "Rubis Zoisite"
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 ## Description
 Description.
 
-![Rubis Zoisite](/images/stones/RubisZoisite_Zund_20230211.jpg "Rubis Zoisite"){: .align-center}
+![{{page.title}}]({{page.image}} "Rubis Zoisite"){: .align-center}
 
 
 ## Propriétés sur le corps physique

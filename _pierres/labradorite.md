@@ -1,17 +1,24 @@
 ---
 title: "Labradorite"
-permalink: /stones/labradorite/
+permalink: /pierres/labradorite/
 excerpt: "Informations sur ma pierre Labradorite"
+collection: pierres
+image: /assets/images/pierres/Labradorite_Kerstin_20200524_1.jpg "Labradorite"
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 ## Description
 Sombre et terne sans lumière et s'illumine de couleurs verts, bleus et dorés avec la lumière.
 
-![Labradorite](/images/stones/Labradorite_Kerstin_20200524_1.jpg "Labradorite"){: .align-center}
+![{{page.title}}]({{page.image}} "Labradorite"){: .align-center}
 
-![Labradorite](/images/stones/Labradorite_Kerstin_20200524_2.jpg "Labradorite"){: .align-center}
+![Labradorite](/assets/images/pierres/Labradorite_Kerstin_20200524_2.jpg "Labradorite" "Labradorite"){: .align-center}
 
-![Labradorite](/images/stones/Labradorite_Kerstin_20200524_4.jpg "Labradorite"){: .align-center}
+![Labradorite](/assets/images/pierres/Labradorite_Kerstin_20200524_4.jpg "Labradorite" "Labradorite"){: .align-center}
 
 
 ## Propriétés sur le corps physique

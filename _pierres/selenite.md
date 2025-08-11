@@ -1,13 +1,20 @@
 ---
 title: "Selenite"
-permalink: /stones/selenite/
+permalink: /pierres/selenite/
 excerpt: "Informations sur ma pierre Selenite"
+collection: pierres
+image: /assets/images/pierres/Selenite_Kerstin_20200528.jpg "Selenite"
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 ## Description
 Description.
 
-![Selenite](/images/stones/Selenite_Kerstin_20200528.jpg "Selenite"){: .align-center}
+![{{page.title}}]({{page.image}} "Selenite"){: .align-center}
 
 
 ## Propriétés sur le corps physique

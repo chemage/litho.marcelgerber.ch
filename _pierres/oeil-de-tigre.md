@@ -1,13 +1,20 @@
 ---
 title: "Oeil de Tigre"
-permalink: /stones/oeil-de-tigre/
+permalink: /pierres/oeil-de-tigre/
 excerpt: "Informations sur ma pierre Oeil de Tigre"
+collection: pierres
+image: /assets/images/pierres/OeilDeTigre_Kerstin_20200524.jpg "Oeil de Tigre"
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 ## Description
 Description.
 
-![Oeil de Tigre](/images/stones/OeilDeTigre_Kerstin_20200524.jpg "Oeil de Tigre"){: .align-center}
+![{{page.title}}]({{page.image}} "Oeil de Tigre"){: .align-center}
 
 
 ## Propriétés sur le corps physique

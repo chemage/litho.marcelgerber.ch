@@ -1,13 +1,20 @@
 ---
 title: "Lave"
-permalink: /stones/lave/
+permalink: /pierres/lave/
 excerpt: "Informations sur ma pierre Lave"
+collection: pierres
+image: /assets/images/pierres/Lave_Kerstin_20200524.jpg "Lave"
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 ## Description
 Description.
 
-![Lave](/images/stones/Lave_Kerstin_20200524.jpg "Lave"){: .align-center}
+![{{page.title}}]({{page.image}} "Lave"){: .align-center}
 
 
 ## Propriétés sur le corps physique

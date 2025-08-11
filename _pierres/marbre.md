@@ -1,13 +1,20 @@
 ---
 title: "Marbre"
-permalink: /stones/marbre/
+permalink: /pierres/marbre/
 excerpt: "Informations sur ma pierre Marbre"
+collection: pierres
+image: /assets/images/pierres/Marbre_India_2016.jpg "Marbre"
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 ## Description
 Description.
 
-![Marbre](/images/stones/Marbre_India_2016.jpg "Marbre"){: .align-center}
+![{{page.title}}]({{page.image}} "Marbre"){: .align-center}
 
 
 ## Propriétés sur le corps physique

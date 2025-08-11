@@ -1,15 +1,22 @@
 ---
 title: "Calcedoine"
-permalink: /stones/calcedoine/
+permalink: /pierres/calcedoine/
 excerpt: "Informations sur ma pierre Calcedoine"
+collection: pierres
+image: /assets/images/pierres/Calcedoine_Kerstin_20200524_1.jpg "Calcedoine"
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 ## Description
 Bleues claires et striées.
 
-![Calcedoine](/images/stones/Calcedoine_Kerstin_20200524_1.jpg "Calcedoine"){: .align-center}
+![{{page.title}}]({{page.image}} "Calcedoine"){: .align-center}
 
-![Calcedoine](/images/stones/Calcedoine_Kerstin_20200524_2.jpg "Calcedoine"){: .align-center}
+![Calcedoine](/assets/images/pierres/Calcedoine_Kerstin_20200524_2.jpg "Calcedoine" "Calcedoine"){: .align-center}
 
 
 ## Propriétés sur le corps physique

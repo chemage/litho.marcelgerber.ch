@@ -1,13 +1,20 @@
 ---
 title: "Lapis Lazuli"
-permalink: /stones/lapis-lazuli/
+permalink: /pierres/lapis-lazuli/
 excerpt: "Informations sur ma pierre Lapis Lazuli"
+collection: pierres
+image: /assets/images/pierres/LapisLazuli_Kerstin_20200524.jpg "Lapis Lazuli"
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 ## Description
 Description.
 
-![Lapis Lazuli](/images/stones/LapisLazuli_Kerstin_20200524.jpg "Lapis Lazuli"){: .align-center}
+![{{page.title}}]({{page.image}} "Lapis Lazuli"){: .align-center}
 
 
 ## Propriétés sur le corps physique

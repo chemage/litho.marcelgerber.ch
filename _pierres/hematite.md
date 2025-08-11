@@ -1,14 +1,21 @@
 ---
 title: "Hematite"
-permalink: /stones/hematite/
+permalink: /pierres/hematite/
 excerpt: "Informations sur ma pierre Hematite"
+collection: pierres
+image: /assets/images/pierres/Hematite_Kerstin_20200524.jpg "Hematite"
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 ## Description
 Description.
 
-1. ![Hematite](/images/stones/Hematite_Kerstin_20200524.jpg "Hematite"){: .align-center}
-1. ![Hematite](/images/stones/Hematite_Zund_20230211.jpg "Hematite"){: .align-center}
+![{{page.title}}]({{page.image}} "Hematite"){: .align-center}
+1. ![Hematite](/assets/images/pierres/Hematite_Zund_20230211.jpg "Hematite" "Hematite"){: .align-center}
 
 
 ## Propriétés sur le corps physique

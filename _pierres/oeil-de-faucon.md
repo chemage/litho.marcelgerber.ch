@@ -1,7 +1,14 @@
 ---
 title: "Oeil de Faucon"
-permalink: /stones/oeil-de-faucon/
+permalink: /pierres/oeil-de-faucon/
 excerpt: "Informations sur ma pierre Oeil de Faucon"
+collection: pierres
+image: /assets/images/pierres/OeilDeFaucon_TresorsDHimalaya_20231028_1.jpg "Oeil de Faucon"
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 <!-- # Oeil de Faucon -->
@@ -9,9 +16,9 @@ excerpt: "Informations sur ma pierre Oeil de Faucon"
 ## Description
 Petite, ovale, couleur brun foncé et brun clair.
 
-![Oeil de Faucon](/images/stones/OeilDeFaucon_TresorsDHimalaya_20231028_1.jpg "Oeil de Faucon"){: .align-center}
+![{{page.title}}]({{page.image}} "Oeil de Faucon"){: .align-center}
 
-![Oeil de Faucon](/images/stones/OeilDeFaucon_TresorsDHimalaya_20231028_2.jpg "Oeil de Faucon"){: .align-center}
+![Oeil de Faucon](/assets/images/pierres/OeilDeFaucon_TresorsDHimalaya_20231028_2.jpg "Oeil de Faucon" "Oeil de Faucon"){: .align-center}
 
 
 ## Propriétés sur le corps physique

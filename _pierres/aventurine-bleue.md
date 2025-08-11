@@ -1,13 +1,20 @@
 ---
 title: "Aventurine Bleue"
-permalink: /stones/aventurine-bleue/
+permalink: /pierres/aventurine-bleue/
 excerpt: "Informations sur ma pierre Aventurine Bleue"
+collection: pierres
+image: /assets/images/pierres/AventurineBleue_BijouxDeMaera_20201002.jpg "Aventurine Bleue"
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 ## description
 description.
 
-![Aventurine Bleue](/images/stones/AventurineBleue_BijouxDeMaera_20201002.jpg "Aventurine Bleue"){: .align-center}
+![{{page.title}}]({{page.image}} "Aventurine Bleue"){: .align-center}
 
 ## Propriétés sur le corps physique
 

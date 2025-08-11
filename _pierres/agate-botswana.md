@@ -1,14 +1,21 @@
 ---
 title: "Agate Botswana"
-permalink: /stones/agate-botswana/
+permalink: /pierres/agate-botswana/
 excerpt: "Informations sur ma pierre Agate Botswana"
+collection: pierres
+image: /assets/images/pierres/AgateBotswana_AgeDePierre_20201103_pourGwendoD.jpg "Agate Botswana"
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 ## Description
 Description.
 
-1. ![Agate Botswana](/images/stones/AgateBotswana_AgeDePierre_20201103_pourGwendoD.jpg "Agate Botswana"){: .align-center}
-1. ![Agate Botswana](/images/stones/AgateBotswana_Kerstin_20200713.jpg "Agate Botswana"){: .align-center}
+![{{page.title}}]({{page.image}} "Agate Botswana"){: .align-center}
+1. ![Agate Botswana](/assets/images/pierres/AgateBotswana_Kerstin_20200713.jpg "Agate Botswana" "Agate Botswana"){: .align-center}
 
 ## Propriétés sur le corps physique
 

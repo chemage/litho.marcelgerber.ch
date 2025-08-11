@@ -1,13 +1,20 @@
 ---
 title: "Jaspe Bourdon"
-permalink: /stones/jaspe-bourdon/
+permalink: /pierres/jaspe-bourdon/
 excerpt: "Informations sur ma pierre Jaspe Bourdon"
+collection: pierres
+image: /assets/images/pierres/JaspeBourdon_BijouxDeMaera_20201002.jpg "Jaspe Bourdon"
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 ## description
 description.
 
-![Jaspe Bourdon](/images/stones/JaspeBourdon_BijouxDeMaera_20201002.jpg "Jaspe Bourdon"){: .align-center}
+![{{page.title}}]({{page.image}} "Jaspe Bourdon"){: .align-center}
 
 
 ## Propriétés sur le corps physique

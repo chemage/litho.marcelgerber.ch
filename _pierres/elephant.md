@@ -1,13 +1,20 @@
 ---
 title: "Elephant"
-permalink: /stones/elephant/
+permalink: /pierres/elephant/
 excerpt: "Informations sur ma pierre Elephant"
+collection: pierres
+image: /assets/images/pierres/Elephant_Italia_2018.jpg "Elephant"
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 ## Description
 Description.
 
-![Elephant](/images/stones/Elephant_Italia_2018.jpg "Elephant"){: .align-center}
+![{{page.title}}]({{page.image}} "Elephant"){: .align-center}
 
 
 ## Acquisition

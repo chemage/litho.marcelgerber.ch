@@ -1,21 +1,28 @@
 ---
 title: "Hypersthene"
-permalink: /stones/hypersthene/
+permalink: /pierres/hypersthene/
 excerpt: "Informations sur ma pierre Hypersthene"
+collection: pierres
+image: /assets/images/pierres/Hypersthene_AgeDePierre_20201103_1.jpg "Hypersthene"
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 ## description
 Très sombre avec reflets alternatifs dans la lumière.
 
-![Hypersthene](/images/stones/Hypersthene_AgeDePierre_20201103_1.jpg "Hypersthene"){: .align-center}
+![{{page.title}}]({{page.image}} "Hypersthene"){: .align-center}
 
-![Hypersthene](/images/stones/Hypersthene_AgeDePierre_20201103_2.jpg "Hypersthene"){: .align-center}
+![Hypersthene](/assets/images/pierres/Hypersthene_AgeDePierre_20201103_2.jpg "Hypersthene" "Hypersthene"){: .align-center}
 
-![Hypersthene](/images/stones/Hypersthene_AgeDePierre_20201103_3.jpg "Hypersthene"){: .align-center}
+![Hypersthene](/assets/images/pierres/Hypersthene_AgeDePierre_20201103_3.jpg "Hypersthene" "Hypersthene"){: .align-center}
 
-![Hypersthene](/images/stones/Hypersthene_AgeDePierre_20201103_4.jpg "Hypersthene"){: .align-center}
+![Hypersthene](/assets/images/pierres/Hypersthene_AgeDePierre_20201103_4.jpg "Hypersthene" "Hypersthene"){: .align-center}
 
-![Hypersthene](/images/stones/Hypersthene_AgeDePierre_20201103_5.jpg "Hypersthene"){: .align-center}
+![Hypersthene](/assets/images/pierres/Hypersthene_AgeDePierre_20201103_5.jpg "Hypersthene" "Hypersthene"){: .align-center}
 
 
 ## Propriétés sur le corps physique

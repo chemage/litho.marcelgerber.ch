@@ -1,7 +1,14 @@
 ---
 title: "Malachite"
-permalink: /stones/malachite/
+permalink: /pierres/malachite/
 excerpt: "Informations sur ma pierre Malachite"
+collection: pierres
+image: /assets/images/pierres/Malachite_Kerstin_20200524.jpg "Malachite"
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 ## Description
@@ -11,7 +18,7 @@ La pierre est tombée et s'est cassée en deux. J'ai pu la recoller ensemble, m�
 
 *La malachite est un pierre de couleur verte, avec des nuances du vert clair au vert foncé marquant des lignes dans ce minéral. Le nom vient du latin malachites, du grec molochē qui veut dire mauve,  il s’agit de la plante de mauve qui à un feuillage vert ressemblant à la couleur de la malachite. Elle est aussi appelé Chrysocolle verte, Cuivre carbonaté vert, Cuivre soyeux, Fleurs de cuivre vertes, Oxyde vert de cuivre, Vert de cuivre, Vert de cuivre ferrugineux, Vert de montagne.*
 
-![Malachite](/images/stones/Malachite_Kerstin_20200524.jpg "Malachite"){: .align-center}
+![{{page.title}}]({{page.image}} "Malachite"){: .align-center}
 
 
 ## Propriétés sur le corps physique
