@@ -1,10 +1,13 @@
 title: "Les Pierres à Marcel"
 description: "Mes pierres de collection"
-url: "https://litho.marcelgerber.ch"  # or your custom domain
-baseurl: ""  # leave blank if using a custom domain
+url: "https://litho.marcelgerber.ch"
+baseurl: ""  # fine if you’re using root domain
 navigation: main
 
 remote_theme: "mmistakes/minimal-mistakes"
+theme_include_custom_css: true
+sass:
+  style: compressed
 
 plugins:
   - jekyll-feed
@@ -18,7 +21,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: single  # check you have a 'single' layout or switch to a built-in MM layout like 'default' or 'page'
 
 collections:
   pages:
@@ -29,4 +32,4 @@ collections:
     permalink: /pierres/:path/
 
 exclude:
-  - gems/
+  - _pierres.backup
