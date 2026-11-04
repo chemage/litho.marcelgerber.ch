@@ -1,0 +1,274 @@
+/* Les Pierres à Marcel – site stylesheet */
+
+:root {
+  --bg: #fbfaf8;
+  --surface: #ffffff;
+  --text: #2b2a33;
+  --muted: #6b6a75;
+  --border: #e3e0ea;
+  --accent: #5b3f8c;
+  --accent-soft: #efe9f8;
+  --masthead-bg: #ffffff;
+  --shadow: 0 1px 2px rgb(40 30 60 / 8%), 0 4px 12px rgb(40 30 60 / 6%);
+  --content-width: 46rem;
+  --sidebar-width: 15rem;
+  --font: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #17161b;
+    --surface: #211f27;
+    --text: #e8e6ee;
+    --muted: #a09eab;
+    --border: #35323f;
+    --accent: #b79af0;
+    --accent-soft: #2c2640;
+    --masthead-bg: #1d1b23;
+    --shadow: 0 1px 2px rgb(0 0 0 / 40%);
+  }
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font);
+  font-size: 1.0625rem;
+  line-height: 1.65;
+}
+
+a {
+  color: var(--accent);
+  text-underline-offset: 0.15em;
+}
+
+a:hover {
+  text-decoration-thickness: 2px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Masthead */
+
+.masthead {
+  background: var(--masthead-bg);
+  border-bottom: 1px solid var(--border);
+}
+
+.masthead__inner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem 2rem;
+  max-width: 76rem;
+  margin: 0 auto;
+  padding: 0.9rem 1.25rem;
+}
+
+.masthead__title {
+  color: var(--text);
+  font-size: 1.25rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.masthead__nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 1.5rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.masthead__nav a {
+  color: var(--muted);
+  text-decoration: none;
+  padding: 0.25rem 0;
+  border-bottom: 2px solid transparent;
+}
+
+.masthead__nav a:hover,
+.masthead__nav a[aria-current="page"] {
+  color: var(--text);
+  border-bottom-color: var(--accent);
+}
+
+/* Layout shell */
+
+.shell {
+  display: grid;
+  grid-template-columns: var(--sidebar-width) minmax(0, 1fr);
+  gap: 2.5rem;
+  max-width: 76rem;
+  margin: 0 auto;
+  padding: 2rem 1.25rem 4rem;
+}
+
+.main {
+  min-width: 0;
+}
+
+/* Sidebar */
+
+.sidebar {
+  align-self: start;
+  position: sticky;
+  top: 1rem;
+  max-height: calc(100vh - 2rem);
+  overflow-y: auto;
+  font-size: 0.95rem;
+}
+
+.sidebar__heading {
+  margin: 0 0 0.4rem;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.sidebar__list {
+  margin: 0 0 1.5rem;
+  padding: 0;
+  list-style: none;
+}
+
+.sidebar__list a {
+  display: block;
+  padding: 0.15rem 0.6rem;
+  border-left: 3px solid transparent;
+  color: var(--text);
+  text-decoration: none;
+}
+
+.sidebar__list a:hover {
+  background: var(--accent-soft);
+}
+
+.sidebar__list a.active {
+  border-left-color: var(--accent);
+  background: var(--accent-soft);
+  font-weight: 600;
+}
+
+/* Page content */
+
+.page {
+  max-width: var(--content-width);
+}
+
+.page__title {
+  margin: 0 0 1.25rem;
+  font-size: 2rem;
+  line-height: 1.2;
+}
+
+.page__content h2 {
+  margin: 2rem 0 0.5rem;
+  font-size: 1.4rem;
+  line-height: 1.3;
+}
+
+.page__content p {
+  margin: 0 0 1.1em;
+}
+
+.page__content img {
+  border-radius: 6px;
+}
+
+.page__content img.align-center {
+  display: block;
+  margin: 1.5rem auto;
+}
+
+/* Stone cards (/pierres/) */
+
+.page:has(.cards) {
+  max-width: none;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(14rem, 1fr));
+  gap: 1.25rem;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  box-shadow: var(--shadow);
+}
+
+.card__image-link {
+  display: block;
+  background: var(--accent-soft);
+}
+
+.card__image {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border-radius: 0;
+}
+
+.card__body {
+  padding: 0.8rem 1rem 1rem;
+}
+
+.card__title {
+  margin: 0 0 0.25rem;
+  font-size: 1.05rem;
+  line-height: 1.3;
+}
+
+.card__title a {
+  color: var(--text);
+  text-decoration: none;
+}
+
+.card__title a:hover {
+  color: var(--accent);
+}
+
+.card__text {
+  margin: 0;
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+/* Small screens: the top navigation is enough, the stones live on /pierres/ */
+
+@media (max-width: 56rem) {
+  .shell {
+    grid-template-columns: minmax(0, 1fr);
+    padding-top: 1.5rem;
+  }
+
+  .sidebar {
+    display: none;
+  }
+}

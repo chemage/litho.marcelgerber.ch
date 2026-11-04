@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="{{ site.lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {%- if title %}
+  <title>{{ title }} | {{ site.title }}</title>
+  {%- else %}
+  <title>{{ site.title }}</title>
+  {%- endif %}
+  {%- assign meta_description = excerpt | default: site.description %}
+  <meta name="description" content="{{ meta_description | escape }}">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="{{ site.title | escape }}">
+  <meta property="og:title" content="{{ title | default: site.title | escape }}">
+  <meta property="og:description" content="{{ meta_description | escape }}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  {%- if image %}
+  <meta property="og:image" content="{{ site.url }}{{ image }}">
+  {%- endif %}
+  <link rel="icon" href="/favicon.ico">
+  <link rel="stylesheet" href="/assets/css/main.css">
+</head>
+<body>
+  <header class="masthead">
+    <div class="masthead__inner">
+      <a class="masthead__title" href="/">{{ site.title }}</a>
+      <nav class="masthead__nav" aria-label="Navigation principale">
+        <ul>
+          {%- for item in navigation.main %}
+          <li><a href="{{ item.url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a></li>
+          {%- endfor %}
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <div class="shell">
+    {% include "partials/sidebar.liquid" %}
+    <main class="main">
+      {{ content }}
+    </main>
+  </div>
+</body>
+</html>

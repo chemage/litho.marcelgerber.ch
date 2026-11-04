@@ -1,0 +1,7 @@
+{
+  "main": [
+    { "title": "Accueil", "url": "/" },
+    { "title": "Pierres", "url": "/pierres/" },
+    { "title": "À Propos", "url": "/apropos/" }
+  ]
+}
