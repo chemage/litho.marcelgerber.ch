@@ -1,19 +1,13 @@
-# Ignore gem dependencies
-gems/
-.bundle/
-vendor/
-Gemfile.lock
+# Dependencies
+node_modules/
 
-# Ignore Jekyll cache and build files
+# Eleventy build output
 _site/
-.jekyll-metadata
-.jekyll-cache/
-.sass-cache/
 
-# Ignore OS-specific files
+# OS-specific files
 .DS_Store
 Thumbs.db
 
-# Ignore logs or temp files
+# Logs or temp files
 *.log
 *.tmp

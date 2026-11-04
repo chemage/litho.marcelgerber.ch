@@ -1,0 +1,19 @@
+<aside class="sidebar" aria-label="Menu latéral">
+  <nav>
+    <p class="sidebar__heading">Menu</p>
+    <ul class="sidebar__list">
+      {%- for item in navigation.main %}
+      <li><a href="{{ item.url }}"{% if page.url == item.url %} class="active" aria-current="page"{% endif %}>{{ item.title }}</a></li>
+      {%- endfor %}
+    </ul>
+
+    {%- if collections.pierres.size > 0 %}
+    <p class="sidebar__heading">Pierres</p>
+    <ul class="sidebar__list">
+      {%- for pierre in collections.pierres %}
+      <li><a href="{{ pierre.url }}"{% if page.url == pierre.url %} class="active" aria-current="page"{% endif %}>{{ pierre.data.title }}</a></li>
+      {%- endfor %}
+    </ul>
+    {%- endif %}
+  </nav>
+</aside>
