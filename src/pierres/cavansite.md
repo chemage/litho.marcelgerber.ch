@@ -15,13 +15,13 @@ Description.
 ## Propriétés sur le corps physique
 
 
-[Source](https://)
+Aucune information fiable en français n'a été trouvée pour cette pierre.
 
 
 ## Propriétés sur le psychisme
 
 
-[Source](https://)
+Aucune information fiable en français n'a été trouvée pour cette pierre.
 
 ## Acquisition
 L'Héliotrope, Nyon, 23.10.2021
