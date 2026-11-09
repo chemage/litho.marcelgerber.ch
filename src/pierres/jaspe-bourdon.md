@@ -13,13 +13,13 @@ description.
 ## Propriétés sur le corps physique
 
 
-[Source](https://)
+Aucune information fiable en français n'a été trouvée pour cette pierre.
 
 
 ## Propriétés sur le psychisme
 
 
-[Source](https://)
+Aucune information fiable en français n'a été trouvée pour cette pierre.
 
 ## Acquisition
 Bijoux de Maera, stand dans un centre commercial, 02.10.2020
