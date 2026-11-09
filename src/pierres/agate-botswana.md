@@ -13,13 +13,18 @@ Description.
 ## Propriétés sur le corps physique
 
 
-[Source](https://)
 
+Deux sources associent l'agate du Botswana à l'élimination des toxines et à l'aide au sevrage tabagique ; l'une d'elles évoque aussi les poumons. Une source cite un regain d'énergie et un apaisement du corps. Les usages traditionnels plus pittoresques (araignées, fertilité) ne sont pas repris ici.
+
+Sources : [Camille Ambiance Nature](https://camille-ambiance-nature.fr/pierre/agate-du-botswana), [Le Comptoir Géologique](https://www.le-comptoir-geologique.com/metaphysicals-botswana-agate.html), [Pierres-lithothérapie.com](https://www.pierres-lithotherapie.com/agates-proprietes/)
 
 ## Propriétés sur le psychisme
 
 
-[Source](https://)
+
+Les trois sources parlent d'un effet sur le moral et la maîtrise du stress et de l'anxiété. Deux ajoutent l'optimisme et le goût de vivre, ou la capacité à tenir ses résolutions, et une troisième l'estime de soi et un meilleur sommeil.
+
+Sources : [Camille Ambiance Nature](https://camille-ambiance-nature.fr/pierre/agate-du-botswana), [Le Comptoir Géologique](https://www.le-comptoir-geologique.com/metaphysicals-botswana-agate.html), [Pierres-lithothérapie.com](https://www.pierres-lithotherapie.com/agates-proprietes/)
 
 ## Acquisition
 
